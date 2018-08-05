@@ -8,8 +8,8 @@
 <a href = "#Title3"><b> 3. Project Progress (With value delivered to client)</b></a><br/>
 <a href = "#Title4"><b> 4. Effective and Appropriate Decision Making </b></a><br/>
 <a href = "#Title5"><b> 5. Project Outputs (Technical Artefacts)</b></a><br/>
-<a href = "#Title6"><b> 6. Appropriate Documentation</b></a><br/>
-<a href = "#Title7"><b> 7. Extra</b></a><br/>
+<a href = "#Title6"><b> 6. Support Documentation</b></a><br/>
+<a href = "#Title7"><b> 7. Group Photo</b></a><br/>
 <br />
 
 <h2><a name = "Title1"> 1.Project Overview </a></h2>
@@ -71,7 +71,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 | Patrick Benter                   | Full Stack Programmer           | u5583834@anu.edu.au             |
 
 
-- The public communication channel is Slack.
+- The public communication channel is [Slack](https://techlauncherbulletkam.slack.com/messages/CC005DM7F/).
 
 <h3> 2.5 Development Approach </h3>
 - The development approach we adapt is agile methodology. We hold weekly meetings consists of Scrum. The time of our weekly Scrum meeting is from 4pm - 6pm every Friday.
@@ -174,54 +174,36 @@ We make decisions during the client meeting and scrum meeting and the decision m
 
 <h2><a name = "Title5"> 5. Project Outputs (Technical Artefacts)</a></h2>
 
-<h3> 5.1 Technical Depth of Outputs:</h3>
-<h4> Week 3 to week 4 </h3>
-
-- status are in progress with research, UI design for the Epic 2 rostering system. 
-- Team members will have to figure out how to design and implement a rostering system with flexibility of moving employees from project to project.  
-
-<h4> Week 5 to week 6 </h3>
-
-- Decide the features and implementation approach about the rostering system.
-- Final version of UI design of each part of the rostering system.[Click to view UI design](https://drive.google.com/drive/folders/1ZMt-Yck6qQI3N30vdpTaPF4B-zPZUN43)
-- Mock up about each calender.[Click to view mock up](https://drive.google.com/drive/folders/1167UJV-z944AT5nvKgqWDcIvfj_lqkT4)
-- System design and report.[Click to view](https://drive.google.com/drive/folders/19zGepCYaQkNmgzNSZFdpLAYaGG6QAciy)
-- Programming Employee Availability Calendar.[Click to view code](https://github.com/hong223/trade-up/tree/fullcalendar-init)
-- Database.[Click to view](https://drive.google.com/drive/folders/1T3hX4hfraH3C-boJQBa3ljX_xkShT8-g)
-
-<h3>System Archictecture of The Protyping System/Environment</h3>
-
-![image](https://user-images.githubusercontent.com/7090914/31581873-ab8d40d0-b1c0-11e7-85e3-045a21041f2f.png)
-
-<h3> 5.2 Technical Breadth of Outputs: </h3>
 
 We tried and used different tools in order to optimise our output
-- **Angular5** for front end development
-- **Mysql** for database
-- **Excel** for mock-up for algorithms
-- **Grails** for back-end
-- **JIRA** for agile project management
-- **Slack** for communication
+- **Node.js** for front end development
+- **HTML5** for front end development
+- **MongoDB** for database
+- **ARM based CPU** for harware
+- **Trello** for tracing progress
+- **Slack** for team communication
 - **Github** for landing page
-- **Google Drive** for notes and documents
+- **Google Drive** for support documentations and images
 
 <br />
 
 
-<h2><a name = "Title6"> 6. Appropriate Documentation </a></h2>
+<h2><a name = "Title6"> 6. Support Documentation </a></h2>
 
-- Weekly Scrum Meeting <br />
-    [Documentations 1](https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M) <br />
-    [Documentations 2](https://drive.google.com/drive/folders/1Ai-7SQrBgczACtOz4PmumEzoDFEwPCnN) <br />
+-  Documentation and Repository <br />
+    [Google Drive](https://drive.google.com/drive/folders/1wbU5rIYncubDpdaH6Kf9xixHzuyPx0kw) <br />
+    [GitHub](https://github.com/TheOneFrank/Elementice-TechLauncher) <br />
+    [Trello](https://trello.com/b/30blgFGs/elementice-bulletkam)
 - Client Meeting <br />
-    [Documentations 3](https://drive.google.com/drive/folders/1aOjSC9K9uAGF44ScHBw86N8XYgL6C-2C) <br />
+    [03/08/18](https://docs.google.com/document/d/1KPQ_Vtuntx5xbjOBj3keB5WUQnQEb-8WsLRibJSK-sg/edit) <br />
 - Group Meeting Notes <br />
-    [Click to view](https://drive.google.com/drive/folders/1B_c_HTqHwuFYNMYhrFvJkHeABBa6CVZB)    
-- Algorithm In Our Project <br />
-    [Click to view](https://drive.google.com/drive/folders/1OPLjnr1sGR2TdBRuWLxZfJWT73LlvkzV)
+    [31/07/18](https://docs.google.com/document/d/1gKmx6XwcPaOOzmSzXxElJdsHmVB6xTTmF0CO8n4Yw0Q/edit)    
+- Audit Presentation <br />
+    [Audit 1](https://docs.google.com/presentation/d/1u_KKXo2D0JObAy4TNxA3SoxCWnAuedRpn-QycyimeSU/edit#slide=id.p)  
+
 
 <br />
-<h2><a name = "Title7"> 7. Extra</a></h2>
+<h2><a name = "Title7"> 7. Group Photo</a></h2>
 
 ![](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/IMG_1462.JPG)
 <p align="center" vertical-align="middle"><b> Team Members </b></p>
