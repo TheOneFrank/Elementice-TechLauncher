@@ -196,14 +196,14 @@ We make decisions during the client meeting and scrum meeting and the decision m
 <h3> 5.2 Technical Breadth of Outputs: </h3>
 
 We tried and used different tools in order to optimise our output
-- **Angular5** for front end development
-- **Mysql** for database
-- **Excel** for mock-up for algorithms
-- **Grails** for back-end
-- **JIRA** for agile project management
-- **Slack** for communication
+- **Node.js** for front end development
+- **HTML5** for front end development
+- **MongoDB** for database
+- **ARM based CPU** for harware
+- **Trello** for tracing progress
+- **Slack** for team communication
 - **Github** for landing page
-- **Google Drive** for notes and documents
+- **Google Drive** for support documentations and images
 
 <br />
 
