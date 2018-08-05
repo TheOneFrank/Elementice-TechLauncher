@@ -15,7 +15,7 @@
 <h2><a name = "Title1"> 1.Project Overview </a></h2>
 
 [Elementice](https://www.elementice.com/) is an Australian tech start-up that creates social marketing camera systems. We partner silently with businesses to build their brand while adding value for their customers who share watermarked photos on social media. Where Businesses have traditionally been left out of the loop, we have developed a variety of automated camera systems that make it easy for any business to not only get the recognition they deserve on social media, but also turn their customers into brand ambassadors.
-Similar to the iconic bullet time sequences of Matrix fame, a "bullet time" camera rig allows the video to slow or stop time and change perspectives. 
+A "bullet time" camera rig allows the video to slow or stop time and change perspectives. 
 We have developed an early POC for a "bullet time" video rig and are looking for a TechLauncher team to progress the POC to a more market ready product and test it's viability for real world use.
 
 
