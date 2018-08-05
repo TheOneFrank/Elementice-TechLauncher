@@ -76,7 +76,7 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 
 - The public communication channel is Slack.
-- The Trello page would be used to track our sprint process. https://trello.com/b/30blgFGs/elementice-bulletkam
+- The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be used to track our sprint process. 
 
 <h3> 2.5 Development Approach </h3>
 - The development approach we adapt is agile methodology. We hold weekly Saturday meetings consists of Scrum. The time of our weekly Scrum meeting is from 2pm - 3pm every Saturday at the provided workspace by Trade Up. 
