@@ -103,7 +103,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </tr>
 <tr align = "center">
 <td><b>Total sprints in this semester</b></td>
-<td><b>4</b></td>
+<td><b>3</b></td>
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
@@ -113,11 +113,11 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 <h3> Status- Sprint 1 </h3>
 
-- Learn Angular JS5, Java, Javascript, database, Node JS, Express Web Sockets<br />
+- Learn Angular JS5, Java, Javascript, Node JS, Express Web Sockets, MangoDB, HTML5, ARM based CPU<br />
 
-- Research on rostering system<br />
+- Discuss and determine the details of the product with clients<br />
 
-- Display allocation in the project calendar per employee<br />
+- Research on camera system<br />
 
 
 <table borde r= 3>
@@ -127,15 +127,15 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </tr>
 <tr align = "center">
 <td><b>Total sprints in this semester</b></td>
-<td><b>4</b></td>
+<td><b>3</b></td>
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
-<td><b>19th March to 1st April</b></td>
+<td><b>13th August to 2nd September</b></td>
 </tr>
 </table>
 
-<h3> Current Status- Sprint 2 </h3>
+<h3> Current Status- Sprint 1 </h3>
 
 - Learn Angular JS5 for advanced function and prepare for further step<br />
 
