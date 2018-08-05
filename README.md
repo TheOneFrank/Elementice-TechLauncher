@@ -32,19 +32,16 @@ Target application for the BulletKam product will start with an indoor, controll
 
 <h4>Milestone 1: Project Calendar</h4>
 
->**Sprint 1** (Week 3 - Week 4)<br />
-Research, look at Angular tutorials, find similar rostering examples, and create roster UI design.
+>**Sprint 1** (Week 2 - Week 3)<br />
+Watch tutorials, discuss and determine the features of the product with clients and research camera system.
 
->**Sprint 2** (Week 5 - Week 6)<br />
-Start development for project calendar features.
+>**Sprint 2** (Week 4 - Week 6)<br />
+Design the UI of application, start development of project, get feedback from clients and programming.
 
 <h4>Milestone 2: Employee Rostering</h4>
 
->**Sprint 3** (Week 7 - Week 8)<br />
-Link employee availability to the project calendar.
-
->**Sprint 4** (Week 9 - Week 10)<br />
-Set up final version of development & prepare for poster showcase.
+>**Sprint 3** (Week 7 - Week 10)<br />
+Improve the product with the feedback from tutor and clients, optimise the product, set up a primal version of development & prepare for poster showcase.
 
 
 <h3> 2.2 Traceability of Actions </h3>
