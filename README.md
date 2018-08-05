@@ -8,8 +8,8 @@
 <a href = "#Title3"><b> 3. Project Progress (With value delivered to client)</b></a><br/>
 <a href = "#Title4"><b> 4. Effective and Appropriate Decision Making </b></a><br/>
 <a href = "#Title5"><b> 5. Project Outputs (Technical Artefacts)</b></a><br/>
-<a href = "#Title6"><b> 6. Appropriate Documentation</b></a><br/>
-<a href = "#Title7"><b> 7. Extra</b></a><br/>
+<a href = "#Title6"><b> 6. Support Documentation</b></a><br/>
+<a href = "#Title7"><b> 7. Group Photo</b></a><br/>
 <br />
 
 <h2><a name = "Title1"> 1.Project Overview </a></h2>
@@ -210,7 +210,7 @@ We tried and used different tools in order to optimise our output
 
 
 <br />
-<h2><a name = "Title7"> 7. Extra</a></h2>
+<h2><a name = "Title7"> 7. Group Photo</a></h2>
 
 ![](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/IMG_1462.JPG)
 <p align="center" vertical-align="middle"><b> Team Members </b></p>
