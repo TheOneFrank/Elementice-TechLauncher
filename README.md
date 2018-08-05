@@ -76,7 +76,6 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 
 
-[Detailed Information](https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0)
 
 - We have meeting with clients and discuss what we did and what we are going to do. If anyone have more questions, they can organise individual meeting time with the client. Then team members and client will create tasks on JIRA. We assign tasks on JIRA and members will work together on some related tasks.
 
