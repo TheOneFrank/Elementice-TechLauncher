@@ -1,5 +1,5 @@
 <div>
-<img src="https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/logo.svg" width="500" align="AbsBottom">
+<img src="https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/logo.svg" width="500" align="AbsBottom">
 </div>
 
 <h2><a name = "content"> Table of Contents </a></h2>
@@ -55,32 +55,23 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 <h3> 2.3 Traceability of Actions </h3>
 
-[See Jira Work log](https://tradeup123.atlassian.net/projects/TR/summary)
-
-[JIRA Dashboard](https://tradeup123.atlassian.net/secure/Dashboard.jspa)
+The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be used to track our sprint process. 
 
 
 <h3> 2.4 Team </h3>
 
-| Team Member                      |               Role              | 
-| ---------------------------------| ------------------------------- | 
-| Annalisa O'Sullivan              | Client                          |
-| Trent O'Sullivan                 | Client                          | 
-| David Roussov                    | Client                          | 
-| Hong You                         | Project Leader & Back-End       | 
-| Tianhao Li                       | Technical Leader                |
-| Honggu Lin                       | Back-End Developer              |
-| Lin Peng                         | Front-End Developer             |
-| Jie Gao                          | Front-End Developer             |
-| Xinyu Hou                        | Front-End Developer             |
-| Qingyang Li                      | Front-End Developer             |
+| Team Member                      |              Role               |              Email              | 
+| ---------------------------------| ------------------------------- | ------------------------------- |  
+| Peter Presneill                  | Client                          |                                 |
+| Ben Hegarty                      | Client                          |                                 | 
+| De Zhang                         |                                 |                                 | 
+| Tianhao Li                       |                                 |                                 |
+| Yu Gu                            |                                 |                                 |
+| James Presneill                  |                                 |                                 |
+| Patrick Benter                   |                                 |                                 |
 
 
-[Detailed Information](https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0)
-
-- We have meeting with clients and discuss what we did and what we are going to do. If anyone have more questions, they can organise individual meeting time with the client. Then team members and client will create tasks on JIRA. We assign tasks on JIRA and members will work together on some related tasks.
-
-- Team communication have been transitioned from Facebook to Slack where team have the opportunity to communicate with internal team members, client, tutor, and shadow team within one platform. 
+- The public communication channel is Slack.
 
 <h3> 2.5 Development Approach </h3>
 - The development approach we adapt is agile methodology. We hold weekly Saturday meetings consists of Scrum. The time of our weekly Scrum meeting is from 2pm - 3pm every Saturday at the provided workspace by Trade Up. 
@@ -232,5 +223,5 @@ We tried and used different tools in order to optimise our output
 <br />
 <h2><a name = "Title7"> 7. Extra</a></h2>
 
-![](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/IMG_1462.JPG)
+![](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/IMG_1462.JPG)
 <p align="center" vertical-align="middle"><b> Team Members </b></p>
