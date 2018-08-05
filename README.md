@@ -15,7 +15,7 @@
 <h2><a name = "Title1"> 1.Project Overview </a></h2>
 
 [Elementice](https://www.elementice.com/) is an Australian tech start-up that creates social marketing camera systems. We partner silently with businesses to build their brand while adding value for their customers who share watermarked photos on social media. Where Businesses have traditionally been left out of the loop, we have developed a variety of automated camera systems that make it easy for any business to not only get the recognition they deserve on social media, but also turn their customers into brand ambassadors.
-Similar to the iconic bullet time sequences of Matrix fame, a "bullet time" camera rig allows the video to slow or stop time and change perspectives. 
+A "bullet time" camera rig allows the video to slow or stop time and change perspectives. 
 We have developed an early POC for a "bullet time" video rig and are looking for a TechLauncher team to progress the POC to a more market ready product and test it's viability for real world use.
 
 
@@ -32,33 +32,24 @@ Target application for the BulletKam product will start with an indoor, controll
 
 <h4>Milestone 1: Project Calendar</h4>
 
->**Sprint 1** (Week 3 - Week 4)<br />
-Research, look at Angular tutorials, find similar rostering examples, and create roster UI design.
+>**Sprint 1** (Week 2 - Week 3)<br />
+Watch tutorials, discuss and determine the features of the product with clients and research camera system.
 
->**Sprint 2** (Week 5 - Week 6)<br />
-Start development for project calendar features.
+>**Sprint 2** (Week 4 - Week 6)<br />
+Design the UI of application, start development of project, get feedback from clients and programming.
 
 <h4>Milestone 2: Employee Rostering</h4>
 
->**Sprint 3** (Week 7 - Week 8)<br />
-Link employee availability to the project calendar.
-
->**Sprint 4** (Week 9 - Week 10)<br />
-Set up final version of development & prepare for poster showcase.
+>**Sprint 3** (Week 7 - Week 10)<br />
+Improve the product with the feedback from tutor and clients, optimise the product, set up a primal version of development & prepare for poster showcase.
 
 
-<h3> 2.2 Evidence of Decision Making</h3>
-The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
-
-[Decision Making Sheet](https://docs.google.com/document/d/1L87AwEB-gYxqa1583W2CnAAb9BrHwLZ23GlzzrfUgWw/edit)
-
-
-<h3> 2.3 Traceability of Actions </h3>
+<h3> 2.2 Traceability of Actions </h3>
 
 The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be used to track our sprint process. 
 
 
-<h3> 2.4 Team </h3>
+<h3> 2.3 Team </h3>
 
 | Team Member                      |              Role               |              Email              | 
 | ---------------------------------| ------------------------------- | ------------------------------- |  
@@ -73,7 +64,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 - The public communication channel is [Slack](https://techlauncherbulletkam.slack.com/messages/CC005DM7F/).
 
-<h3> 2.5 Development Approach </h3>
+<h3> 2.4 Development Approach </h3>
 - The development approach we adapt is agile methodology. We hold weekly meetings consists of Scrum. The time of our weekly Scrum meeting is from 4pm - 6pm every Friday.
 
 - Each team member answers 3 following questions: 
@@ -85,7 +76,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 - Each sprint will last 2 weeks, where each member will work on the allocated task individually during the week and during team weekly meeting we come together and work on unresolved or difficulty tasks as a team.
 
-<h3> 2.6 Engagement With Stakeholders </h3>
+<h3> 2.5 Engagement With Stakeholders </h3>
 - We have individual meetings and chats with client whenever any of us have questions (phone, video chat, meet in office)
 
 - We have regular client meeting from 4pm - 6pm every Friday.
@@ -111,7 +102,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </tr>
 </table>
 
-<h3> Status- Sprint 1 </h3>
+<h3> Sprint 1 </h3>
 
 - Learn Angular JS5, Java, Javascript, Node JS, Express Web Sockets, MangoDB, HTML5, ARM based CPU<br />
 
@@ -135,7 +126,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </tr>
 </table>
 
-<h3> Status- Sprint 1 </h3>
+<h3> Sprint 2 </h3>
 
 - Learn Angular JS5, Java, Javascript, Node JS, Express Web Sockets, MangoDB, HTML5, ARM based CPU for futher step<br />
 
@@ -165,14 +156,24 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </table>
 
 
+<h3> Sprint 3 </h3>
+
+- Improve our UI design of our application from the feedback<br />
+
+- Connect the front-end and back-end<br />
+
+- Optimise the system of our product<br />
+
+- Array of the cameras, that can take a photo at exactly the same time, download the images, stitch together and ouput video to web<br />
+
 
 <br />
-<h2><a name = "Title4"> 4. Decision Making </a></h2>
+<h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
+The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
 
 We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:
 
-[Decision Making Trace File](https://docs.google.com/document/d/1L87AwEB-gYxqa1583W2CnAAb9BrHwLZ23GlzzrfUgWw/edit)<br />
-
+[Decision Making Progress](https://docs.google.com/document/d/1L87AwEB-gYxqa1583W2CnAAb9BrHwLZ23GlzzrfUgWw/edit?usp=sharing)<br />
 <br />
 
 <h2><a name = "Title5"> 5. Technical Tools </a></h2>
