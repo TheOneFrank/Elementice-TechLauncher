@@ -176,24 +176,11 @@ We make decisions during the client meeting and scrum meeting and the decision m
 
 <h3> 5.1 Technical Depth of Outputs:</h3>
 <h4> Week 3 to week 4 </h3>
-
-- status are in progress with research, UI design for the Epic 2 rostering system. 
-- Team members will have to figure out how to design and implement a rostering system with flexibility of moving employees from project to project.  
-
 <h4> Week 5 to week 6 </h3>
+<h4> Week 6 to week 7 </h3>
+<h4> Week 7 to week 8 </h3>
+<h4> Week 9 to week 10 </h3>
 
-- Decide the features and implementation approach about the rostering system.
-- Final version of UI design of each part of the rostering system.[Click to view UI design](https://drive.google.com/drive/folders/1ZMt-Yck6qQI3N30vdpTaPF4B-zPZUN43)
-- Mock up about each calender.[Click to view mock up](https://drive.google.com/drive/folders/1167UJV-z944AT5nvKgqWDcIvfj_lqkT4)
-- System design and report.[Click to view](https://drive.google.com/drive/folders/19zGepCYaQkNmgzNSZFdpLAYaGG6QAciy)
-- Programming Employee Availability Calendar.[Click to view code](https://github.com/hong223/trade-up/tree/fullcalendar-init)
-- Database.[Click to view](https://drive.google.com/drive/folders/1T3hX4hfraH3C-boJQBa3ljX_xkShT8-g)
-
-<h3>System Archictecture of The Protyping System/Environment</h3>
-
-![image](https://user-images.githubusercontent.com/7090914/31581873-ab8d40d0-b1c0-11e7-85e3-045a21041f2f.png)
-
-<h3> 5.2 Technical Breadth of Outputs: </h3>
 
 We tried and used different tools in order to optimise our output
 - **Node.js** for front end development
