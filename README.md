@@ -68,9 +68,9 @@ The team have engaged well in the planning and reporting process outlined by us 
 | ---------------------------------| ------------------------------- | 
 | Peter Presneill                  | Client                          |
 | Ben Hegarty                      | Client                          | 
-| De Zhang                         | Project Leader & Back-End       | 
-| Tianhao Li                       | Technical Leader                |
-| Yu Gu                            | Back-End Developer              |
+| De Zhang                         |       | 
+| Tianhao Li                       |             |
+| Yu Gu                            |            |
 | James Presneill                  |          |
 | Patrick Benter                   |          |
 
