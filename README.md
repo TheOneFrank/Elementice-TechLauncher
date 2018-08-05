@@ -62,35 +62,35 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 | Team Member                      |              Role               |              Email              | 
 | ---------------------------------| ------------------------------- | ------------------------------- |  
-| Peter Presneill                  | Client                          |                                 |
-| Ben Hegarty                      | Client                          |                                 | 
-| De Zhang                         |                                 |                                 | 
-| Tianhao Li                       |                                 |                                 |
-| Yu Gu                            |                                 |                                 |
-| James Presneill                  |                                 |                                 |
-| Patrick Benter                   |                                 |                                 |
+| Peter Presneill                  | Client                          | peter@elementice.com            |
+| Ben Hegarty                      | Client                          | ben@elementice.com              | 
+| De Zhang                         | Technical Leader, Programmer    | u6137069@anu.edu.au             |
+| Tianhao Li                       | Project Manager, Programmer     | u6071904@anu.edu.au             |
+| Yu Gu                            | Project Designer, Programmer    | u6013813@anu.edu.au             |
+| James Presneill                  | Reporter                        | u5678952@anu.edu.au             |
+| Patrick Benter                   | Full Stack Programmer           | u5583834@anu.edu.au             |
 
 
 - The public communication channel is [Slack](https://techlauncherbulletkam.slack.com/messages/CC005DM7F/).
 
 <h3> 2.5 Development Approach </h3>
-- The development approach we adapt is agile methodology. We hold weekly Saturday meetings consists of Scrum. The time of our weekly Scrum meeting is from 2pm - 3pm every Saturday at the provided workspace by Trade Up. 
+- The development approach we adapt is agile methodology. We hold weekly meetings consists of Scrum. The time of our weekly Scrum meeting is from 4pm - 6pm every Friday.
 
 - Each team member answers 3 following questions: 
  1. "What they have done?"
  2. "What were struggles and challenges encountered?"
  3. "What will they be doing next?"
 
-- When a new sprint starts, each task will be distributed among each team member from JIRA assigned by client and/or the team itself. 
+- When a new sprint starts, each task will be distributed among each team member from TRELLO assigned by client and/or the team itself. 
 
 - Each sprint will last 2 weeks, where each member will work on the allocated task individually during the week and during team weekly meeting we come together and work on unresolved or difficulty tasks as a team.
 
 <h3> 2.6 Engagement With Stakeholders </h3>
 - We have individual meetings and chats with client whenever any of us have questions (phone, video chat, meet in office)
 
-- We have regular client meeting from 2pm - 3pm every Saturday.
+- We have regular client meeting from 4pm - 6pm every Friday.
 
-- During our 1-hour client meeting, we ask client questions and update client the progress of our project.
+- During our client meeting, we ask client questions and update client the progress of our project.
 
 
 <br />
