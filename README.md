@@ -173,7 +173,6 @@ We make decisions during the client meeting and scrum meeting and the decision m
 
 <h2><a name = "Title5"> 5. Technical Tools </a></h2>
 
-
 We tried and used different tools in order to optimise our output
 - **Node.js** for front end development
 - **HTML5** for front end development
@@ -183,6 +182,10 @@ We tried and used different tools in order to optimise our output
 - **Slack** for team communication
 - **Github** for landing page
 - **Google Drive** for support documentations and images
+
+![](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/nanoPi.JPG)
+<p align="center" vertical-align="middle"><b> NanoPi </b>
+
 
 <br />
 
