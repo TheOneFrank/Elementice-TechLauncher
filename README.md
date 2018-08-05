@@ -66,16 +66,14 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 | Team Member                      |               Role              | 
 | ---------------------------------| ------------------------------- | 
-| Annalisa O'Sullivan              | Client                          |
-| Trent O'Sullivan                 | Client                          | 
-| David Roussov                    | Client                          | 
-| Hong You                         | Project Leader & Back-End       | 
+| Peter Presneill                  | Client                          |
+| Ben Hegarty                      | Client                          | 
+| De Zhang                         | Project Leader & Back-End       | 
 | Tianhao Li                       | Technical Leader                |
-| Honggu Lin                       | Back-End Developer              |
-| Lin Peng                         | Front-End Developer             |
-| Jie Gao                          | Front-End Developer             |
-| Xinyu Hou                        | Front-End Developer             |
-| Qingyang Li                      | Front-End Developer             |
+| Yu Gu                            | Back-End Developer              |
+| James Presneill                  |          |
+| Patrick Benter                   |          |
+
 
 
 [Detailed Information](https://docs.google.com/spreadsheets/d/1H-H8VXIQRvcCQ0B4kPnGwj3BTp5xR1Af0nwAcy8HQQo/edit#gid=0)
