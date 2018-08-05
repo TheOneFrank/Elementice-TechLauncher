@@ -167,8 +167,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:
 
-[Decision Making Progress](https://docs.google.com/document/d/1rNijuexMwzqXhBVuOw6-GahGKt6cx17uGpKY4V0NzUo/edit)<br />
-[React on Feedback](https://drive.google.com/open?id=1pV3LtteTpcvCSm-DeyL_JJ8yhrjKVyAL)
+[Decision Making Trace File](https://docs.google.com/document/d/1L87AwEB-gYxqa1583W2CnAAb9BrHwLZ23GlzzrfUgWw/edit)<br />
 
 <br />
 
