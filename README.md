@@ -174,13 +174,6 @@ We make decisions during the client meeting and scrum meeting and the decision m
 
 <h2><a name = "Title5"> 5. Project Outputs (Technical Artefacts)</a></h2>
 
-<h3> 5.1 Technical Depth of Outputs:</h3>
-<h4> Week 3 to week 4 </h3>
-
-<h4> Week 5 to week 6 </h3>
-
-<h4> Week 6 to week 7 </h3>
-
 
 We tried and used different tools in order to optimise our output
 - **Node.js** for front end development
