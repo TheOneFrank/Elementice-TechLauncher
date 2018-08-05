@@ -184,8 +184,8 @@ We tried and used different tools in order to optimise our output
 - **Google Drive** for support documentations and images
 
 
-![](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/nanoPi.JPG)
-<p align="center" ><b> NanoPi </b></p>
+[](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/nanoPi.JPG)
+<p align="center" vertical-align="middle"><b> NanoPi </b></p>
 
 
 <br />
