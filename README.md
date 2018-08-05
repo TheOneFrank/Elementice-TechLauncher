@@ -213,6 +213,7 @@ We tried and used different tools in order to optimise our output
 -  Documentation and Repository <br />
     [Google Drive](https://drive.google.com/drive/folders/1wbU5rIYncubDpdaH6Kf9xixHzuyPx0kw) <br />
     [GitHub](https://github.com/TheOneFrank/Elementice-TechLauncher) <br />
+    [Trello](https://trello.com/b/30blgFGs/elementice-bulletkam)
 - Client Meeting <br />
     [03/08/18](https://docs.google.com/document/d/1KPQ_Vtuntx5xbjOBj3keB5WUQnQEb-8WsLRibJSK-sg/edit) <br />
 - Group Meeting Notes <br />
