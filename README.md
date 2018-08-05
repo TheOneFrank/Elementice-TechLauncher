@@ -66,7 +66,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 | Ben Hegarty                      | Client                          | ben@elementice.com              | 
 | De Zhang                         | Technical Leader, Programmer    | u6137069@anu.edu.au             |
 | Tianhao Li                       | Project Manager, Programmer     | u6071904@anu.edu.au             |
-| Yu Gu                            | Project Designer, Programmer    | u6013813@anu.edu.au             |
+| Yu Gu                            | Program Designer, Programmer    | u6013813@anu.edu.au             |
 | James Presneill                  | Reporter                        | u5678952@anu.edu.au             |
 | Patrick Benter                   | Full Stack Programmer           | u5583834@anu.edu.au             |
 
@@ -107,13 +107,13 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
-<td><b>5th March to 18th March</b></td>
+<td><b>30th July to 12th August</b></td>
 </tr>
 </table>
 
 <h3> Status- Sprint 1 </h3>
 
-- Learn Angular JS5<br />
+- Learn Angular JS5, Java, Javascript, database<br />
 
 - Research on rostering system<br />
 
