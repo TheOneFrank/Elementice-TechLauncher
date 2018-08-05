@@ -1,5 +1,5 @@
 <div>
-<img src="https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/logo.svg" width="500" align="AbsBottom">
+<img src="https://drive.google.com/open?id=1foREBrmXzHASXI6pWzOI15QSvM99srKf" width="500" align="AbsBottom">
 </div>
 
 <h2><a name = "content"> Table of Contents </a></h2>
