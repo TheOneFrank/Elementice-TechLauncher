@@ -14,7 +14,7 @@
 
 <h2><a name = "Title1"> 1.Project Overview </a></h2>
 
-[Trade Up](http://www.trade-up.com.au/) is a software company that aims to solve the inefficiency of the labour usage in Australian construction companies. The cost of employment as well as the cost of materials are consistent amongst subcontractors due to industrial relations and working conditions such as weather. Thus, it is vital to point out the amount of workers working on particular jobs in terms of economic terms. This will help to carry out work using the least amount of money.
+[Elementice](https://www.elementice.com/) is an Australian tech start-up that creates the world’s best social marketing camera systems. Elementice started out as a group of snowboarding mates who just wanted to get awesome photos of ourselves quickly and easily, while making the most of our precious few snow days.
 
 **Client's Vision**
 Automate current default values associated with productivity of construction companies with existing and future data. 
@@ -234,5 +234,5 @@ We tried and used different tools in order to optimise our output
 <br />
 <h2><a name = "Title7"> 7. Extra</a></h2>
 
-![](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/IMG_1462.JPG)
-<p align="center" vertical-align="middle"><b> Team Members </b></p>
+![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Project%20Showcase.jpg?raw=true)
+<p align="center" vertical-align="middle"><b> Team showcase from Epic 1</b></p>
