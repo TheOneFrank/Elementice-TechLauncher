@@ -187,8 +187,6 @@ We tried and used different tools in order to optimise our output
 - **Github** for landing page
 - **Google Drive** for support documentations and images
 
-
--- ![](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/nanoPi.JPG)
 <img src="https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/nanoPi.JPG" width="500" height="500" align="AbsBottom">
 <p align="center" vertical-align="middle"><b> NanoPi </b></p>
 
