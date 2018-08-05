@@ -111,7 +111,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </tr>
 </table>
 
-<h3> Status- Sprint 1 </h3>
+<h3> Sprint 1 </h3>
 
 - Learn Angular JS5, Java, Javascript, Node JS, Express Web Sockets, MangoDB, HTML5, ARM based CPU<br />
 
@@ -135,7 +135,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </tr>
 </table>
 
-<h3> Status- Sprint 1 </h3>
+<h3> Sprint 2 </h3>
 
 - Learn Angular JS5, Java, Javascript, Node JS, Express Web Sockets, MangoDB, HTML5, ARM based CPU for futher step<br />
 
@@ -164,6 +164,16 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </tr>
 </table>
 
+
+<h3> Sprint 3 </h3>
+
+- Improve our UI design of our application from the feedback<br />
+
+- Connect the front-end and back-end<br />
+
+- Optimise the system of our product<br />
+
+- Array of the cameras, that can take a photo at exactly the same time, download the images, stitch together and ouput video to web<br />
 
 
 <br />
