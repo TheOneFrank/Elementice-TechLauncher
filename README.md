@@ -62,35 +62,35 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 | Team Member                      |              Role               |              Email              | 
 | ---------------------------------| ------------------------------- | ------------------------------- |  
-| Peter Presneill                  | Client                          |                                 |
-| Ben Hegarty                      | Client                          |                                 | 
-| De Zhang                         |                                 |                                 | 
-| Tianhao Li                       |                                 |                                 |
-| Yu Gu                            |                                 |                                 |
-| James Presneill                  |                                 |                                 |
-| Patrick Benter                   |                                 |                                 |
+| Peter Presneill                  | Client                          | peter@elementice.com            |
+| Ben Hegarty                      | Client                          | ben@elementice.com              | 
+| De Zhang                         | Technical Leader, Programmer    | u6137069@anu.edu.au             |
+| Tianhao Li                       | Project Manager, Programmer     | u6071904@anu.edu.au             |
+| Yu Gu                            | Project Designer, Programmer    | u6013813@anu.edu.au             |
+| James Presneill                  | Reporter                        | u5678952@anu.edu.au             |
+| Patrick Benter                   | Full Stack Programmer           | u5583834@anu.edu.au             |
 
 
-- The public communication channel is Slack.
+- The public communication channel is [Slack](https://techlauncherbulletkam.slack.com/messages/CC005DM7F/).
 
 <h3> 2.5 Development Approach </h3>
-- The development approach we adapt is agile methodology. We hold weekly Saturday meetings consists of Scrum. The time of our weekly Scrum meeting is from 2pm - 3pm every Saturday at the provided workspace by Trade Up. 
+- The development approach we adapt is agile methodology. We hold weekly meetings consists of Scrum. The time of our weekly Scrum meeting is from 4pm - 6pm every Friday.
 
 - Each team member answers 3 following questions: 
  1. "What they have done?"
  2. "What were struggles and challenges encountered?"
  3. "What will they be doing next?"
 
-- When a new sprint starts, each task will be distributed among each team member from JIRA assigned by client and/or the team itself. 
+- When a new sprint starts, each task will be distributed among each team member from TRELLO assigned by client and/or the team itself. 
 
 - Each sprint will last 2 weeks, where each member will work on the allocated task individually during the week and during team weekly meeting we come together and work on unresolved or difficulty tasks as a team.
 
 <h3> 2.6 Engagement With Stakeholders </h3>
 - We have individual meetings and chats with client whenever any of us have questions (phone, video chat, meet in office)
 
-- We have regular client meeting from 2pm - 3pm every Saturday.
+- We have regular client meeting from 4pm - 6pm every Friday.
 
-- During our 1-hour client meeting, we ask client questions and update client the progress of our project.
+- During our client meeting, we ask client questions and update client the progress of our project.
 
 
 <br />
@@ -210,15 +210,16 @@ We tried and used different tools in order to optimise our output
 
 <h2><a name = "Title6"> 6. Appropriate Documentation </a></h2>
 
-- Weekly Scrum Meeting <br />
-    [Documentations 1](https://drive.google.com/drive/folders/0Bzc3lP9XuDfva1U5T2NraHpsa2M) <br />
-    [Documentations 2](https://drive.google.com/drive/folders/1Ai-7SQrBgczACtOz4PmumEzoDFEwPCnN) <br />
+-  Documentation and Repository <br />
+    [Google Drive](https://drive.google.com/drive/folders/1wbU5rIYncubDpdaH6Kf9xixHzuyPx0kw) <br />
+    [GitHub](https://github.com/TheOneFrank/Elementice-TechLauncher) <br />
 - Client Meeting <br />
-    [Documentations 3](https://drive.google.com/drive/folders/1aOjSC9K9uAGF44ScHBw86N8XYgL6C-2C) <br />
+    [03/08/18](https://docs.google.com/document/d/1KPQ_Vtuntx5xbjOBj3keB5WUQnQEb-8WsLRibJSK-sg/edit) <br />
 - Group Meeting Notes <br />
-    [Click to view](https://drive.google.com/drive/folders/1B_c_HTqHwuFYNMYhrFvJkHeABBa6CVZB)    
-- Algorithm In Our Project <br />
-    [Click to view](https://drive.google.com/drive/folders/1OPLjnr1sGR2TdBRuWLxZfJWT73LlvkzV)
+    [31/07/18](https://docs.google.com/document/d/1gKmx6XwcPaOOzmSzXxElJdsHmVB6xTTmF0CO8n4Yw0Q/edit)    
+- Audit Presentation <br />
+    [Audit 1](https://docs.google.com/presentation/d/1u_KKXo2D0JObAy4TNxA3SoxCWnAuedRpn-QycyimeSU/edit#slide=id.p)  
+
 
 <br />
 <h2><a name = "Title7"> 7. Extra</a></h2>
