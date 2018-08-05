@@ -64,15 +64,15 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 <h3> 2.4 Team </h3>
 
-| Team Member                      |               Role              | 
-| ---------------------------------| ------------------------------- | 
-| Peter Presneill                  | Client                          |
-| Ben Hegarty                      | Client                          | 
-| De Zhang                         |       | 
-| Tianhao Li                       |             |
-| Yu Gu                            |            |
-| James Presneill                  |          |
-| Patrick Benter                   |          |
+| Team Member                      |              Role               |              Email              | 
+| ---------------------------------| ------------------------------- | ------------------------------- |  
+| Peter Presneill                  | Client                          |                                 |
+| Ben Hegarty                      | Client                          |                                 | 
+| De Zhang                         |                                 |                                 | 
+| Tianhao Li                       |                                 |                                 |
+| Yu Gu                            |                                 |                                 |
+| James Presneill                  |                                 |                                 |
+| Patrick Benter                   |                                 |                                 |
 
 
 - The public communication channel is Slack.
