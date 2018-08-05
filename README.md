@@ -1,5 +1,5 @@
 <div>
-<img src="https://github.com/Jasonluo666/trade-up/blob/master/project/image/logo.png?raw=true" width="250" align="AbsBottom">
+<img src="https://drive.google.com/drive/folders/1wbU5rIYncubDpdaH6Kf9xixHzuyPx0kw" width="250" align="AbsBottom">
 
 <img src="https://github.com/Jasonluo666/trade-up/blob/master/project/image/Trade-Up.png?raw=true" width="620" align="AbsBottom">
 </div>
