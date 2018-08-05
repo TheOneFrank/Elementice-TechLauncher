@@ -103,7 +103,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </tr>
 <tr align = "center">
 <td><b>Total sprints in this semester</b></td>
-<td><b>4</b></td>
+<td><b>3</b></td>
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
@@ -113,11 +113,11 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 <h3> Status- Sprint 1 </h3>
 
-- Learn Angular JS5, Java, Javascript, database, Node JS, Express Web Sockets<br />
+- Learn Angular JS5, Java, Javascript, Node JS, Express Web Sockets, MangoDB, HTML5, ARM based CPU<br />
 
-- Research on rostering system<br />
+- Discuss and determine the details of the product with clients<br />
 
-- Display allocation in the project calendar per employee<br />
+- Research on camera system<br />
 
 
 <table borde r= 3>
@@ -127,40 +127,44 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </tr>
 <tr align = "center">
 <td><b>Total sprints in this semester</b></td>
-<td><b>4</b></td>
+<td><b>3</b></td>
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
-<td><b>19th March to 1st April</b></td>
+<td><b>13th August to 2nd September</b></td>
 </tr>
 </table>
 
-<h3> Current Status- Sprint 2 </h3>
+<h3> Status- Sprint 1 </h3>
 
-- Learn Angular JS5 for advanced function and prepare for further step<br />
+- Learn Angular JS5, Java, Javascript, Node JS, Express Web Sockets, MangoDB, HTML5, ARM based CPU for futher step<br />
 
-- Discuss, design and optimise rostering system<br />
+- Discuss, design and optimise the prototype of the product<br />
 
-- Rebuild the Employee Availability Calendar with Angular JS5<br />
+- Design the UI of application
 
-- Display allocation in the new project calendar per employee<br />
+- Get feedback from our client<br />
 
-- Discuss with client about the features<br />
+- Programming for front-end, back-end<br />
 
-- Add and change the features in the Employee Availability Calendar<br />
 
-- Discuss with client about the UI design about calendar<br />
 
-- Design the UI design about calendar<br />
+<table borde r= 3>
+<tr align = "center">
+<th>sprint</th>
+<th>sprint 3</th>
+</tr>
+<tr align = "center">
+<td><b>Total sprints in this semester</b></td>
+<td><b>3</b></td>
+</tr>
+<tr align = "center">
+<td><b>Period</b></td>
+<td><b>17th September to 14th October</b></td>
+</tr>
+</table>
 
-- Programming for front end, back end<br />
 
-- Connect front end and back end<br />
-
-- Find more info on 
-[current status](https://tradeup123.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=TR&view=planning.nodetail&selectedIssue=TR-2&epics=visible)
-
-- More details and explainations on [Audit Slides](https://drive.google.com/drive/folders/1Pf9EujU5TIjAiD7U_5D0yDuv5F7knn0y)
 
 <br />
 <h2><a name = "Title4"> 4. Decision Making </a></h2>
