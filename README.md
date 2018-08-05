@@ -5,8 +5,8 @@
 <h2><a name = "content"> Table of Contents </a></h2>
 <a href = "#Title1"><b> 1. Project Overview </b></a><br/>
 <a href = "#Title2"><b> 2. Project Governance </b></a><br/>
-<a href = "#Title3"><b> 3. Project Progress (With value delivered to client)</b></a><br/>
-<a href = "#Title4"><b> 4. Effective and Appropriate Decision Making </b></a><br/>
+<a href = "#Title3"><b> 3. Project Progress </b></a><br/>
+<a href = "#Title4"><b> 4. Decision Making </b></a><br/>
 <a href = "#Title5"><b> 5. Project Outputs </b></a><br/>
 <a href = "#Title6"><b> 6. Support Documentation</b></a><br/>
 <a href = "#Title7"><b> 7. Group Photo</b></a><br/>
@@ -94,7 +94,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 
 <br />
-<h2><a name = "Title3"> 3. Project Progress (With value delivered to client)</a></h2>
+<h2><a name = "Title3"> 3. Project Progress </a></h2>
 
 <table borde r= 3>
 <tr align = "center">
@@ -163,7 +163,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 - More details and explainations on [Audit Slides](https://drive.google.com/drive/folders/1Pf9EujU5TIjAiD7U_5D0yDuv5F7knn0y)
 
 <br />
-<h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
+<h2><a name = "Title4"> 4. Decision Making </a></h2>
 
 We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:
 
