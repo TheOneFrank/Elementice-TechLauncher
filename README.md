@@ -234,5 +234,5 @@ We tried and used different tools in order to optimise our output
 <br />
 <h2><a name = "Title7"> 7. Extra</a></h2>
 
-![](https://drive.google.com/open?id=1BXY89HgX5QIIxK991U1nVGVY0qTkc3O8)
+![](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/IMG_1462.JPG)
 <p align="center" vertical-align="middle"><b> Team Members </b></p>
