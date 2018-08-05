@@ -71,7 +71,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 | Patrick Benter                   |                                 |                                 |
 
 
-- The public communication channel is Slack.
+- The public communication channel is [Slack](https://techlauncherbulletkam.slack.com/messages/CC005DM7F/).
 
 <h3> 2.5 Development Approach </h3>
 - The development approach we adapt is agile methodology. We hold weekly Saturday meetings consists of Scrum. The time of our weekly Scrum meeting is from 2pm - 3pm every Saturday at the provided workspace by Trade Up. 
