@@ -62,13 +62,13 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 | Team Member                      |              Role               |              Email              | 
 | ---------------------------------| ------------------------------- | ------------------------------- |  
-| Peter Presneill                  | Client                          |                                 |
-| Ben Hegarty                      | Client                          |                                 | 
-| De Zhang                         |                                 |                                 | 
-| Tianhao Li                       |                                 |                                 |
-| Yu Gu                            |                                 |                                 |
-| James Presneill                  |                                 |                                 |
-| Patrick Benter                   |                                 |                                 |
+| Peter Presneill                  | Client                          | peter@elementice.com            |
+| Ben Hegarty                      | Client                          | ben@elementice.com              | 
+| De Zhang                         | Technical Leader, Programmer    | u6137069@anu.edu.au             |
+| Tianhao Li                       | Project Manager, Programmer     | u6071904@anu.edu.au             |
+| Yu Gu                            | Project Designer, Programmer    | u6013813@anu.edu.au             |
+| James Presneill                  | Reporter                        | u5678952@anu.edu.au             |
+| Patrick Benter                   | Full Stack Programmer           | u5583834@anu.edu.au             |
 
 
 - The public communication channel is Slack.
