@@ -1,5 +1,5 @@
 <div>
-<img src="https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/logo.svg" width="500" align="AbsBottom">
+<img src="https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/logo.svg" width="500" align="AbsBottom">
 </div>
 
 <h2><a name = "content"> Table of Contents </a></h2>
@@ -234,5 +234,5 @@ We tried and used different tools in order to optimise our output
 <br />
 <h2><a name = "Title7"> 7. Extra</a></h2>
 
-![](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/IMG_1462.JPG)
+![](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/IMG_1462.JPG)
 <p align="center" vertical-align="middle"><b> Team Members </b></p>
