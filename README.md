@@ -171,9 +171,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
 The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
 
-We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:
-
-[Decision Making Progress](https://docs.google.com/document/d/1L87AwEB-gYxqa1583W2CnAAb9BrHwLZ23GlzzrfUgWw/edit?usp=sharing)<br />
+We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:[Decision Making Progress](https://docs.google.com/document/d/1L87AwEB-gYxqa1583W2CnAAb9BrHwLZ23GlzzrfUgWw/edit?usp=sharing)<br />
 <br />
 
 <h2><a name = "Title5"> 5. Technical Tools </a></h2>
