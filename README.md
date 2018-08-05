@@ -234,5 +234,5 @@ We tried and used different tools in order to optimise our output
 <br />
 <h2><a name = "Title7"> 7. Extra</a></h2>
 
-![](https://github.com/Jasonluo666/trade-up/blob/master/project/image/Project%20Showcase.jpg?raw=true)
+![](https://drive.google.com/open?id=1BXY89HgX5QIIxK991U1nVGVY0qTkc3O8raw=true)
 <p align="center" vertical-align="middle"><b> Team showcase from Epic 1</b></p>
