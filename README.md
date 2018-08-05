@@ -47,18 +47,12 @@ Link employee availability to the project calendar.
 Set up final version of development & prepare for poster showcase.
 
 
-<h3> 2.2 Evidence of Decision Making</h3>
-The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
-
-[Decision Making Sheet](https://docs.google.com/document/d/1L87AwEB-gYxqa1583W2CnAAb9BrHwLZ23GlzzrfUgWw/edit)
-
-
-<h3> 2.3 Traceability of Actions </h3>
+<h3> 2.2 Traceability of Actions </h3>
 
 The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be used to track our sprint process. 
 
 
-<h3> 2.4 Team </h3>
+<h3> 2.3 Team </h3>
 
 | Team Member                      |              Role               |              Email              | 
 | ---------------------------------| ------------------------------- | ------------------------------- |  
@@ -73,7 +67,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 - The public communication channel is [Slack](https://techlauncherbulletkam.slack.com/messages/CC005DM7F/).
 
-<h3> 2.5 Development Approach </h3>
+<h3> 2.4 Development Approach </h3>
 - The development approach we adapt is agile methodology. We hold weekly meetings consists of Scrum. The time of our weekly Scrum meeting is from 4pm - 6pm every Friday.
 
 - Each team member answers 3 following questions: 
@@ -85,7 +79,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 - Each sprint will last 2 weeks, where each member will work on the allocated task individually during the week and during team weekly meeting we come together and work on unresolved or difficulty tasks as a team.
 
-<h3> 2.6 Engagement With Stakeholders </h3>
+<h3> 2.5 Engagement With Stakeholders </h3>
 - We have individual meetings and chats with client whenever any of us have questions (phone, video chat, meet in office)
 
 - We have regular client meeting from 4pm - 6pm every Friday.
@@ -178,12 +172,11 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 <br />
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
+The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
 
 We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:
 
-[Decision Making Progress](https://docs.google.com/document/d/1rNijuexMwzqXhBVuOw6-GahGKt6cx17uGpKY4V0NzUo/edit)<br />
-[React on Feedback](https://drive.google.com/open?id=1pV3LtteTpcvCSm-DeyL_JJ8yhrjKVyAL)
-
+[Decision Making Progress](https://docs.google.com/document/d/1L87AwEB-gYxqa1583W2CnAAb9BrHwLZ23GlzzrfUgWw/edit?usp=sharing)<br />
 <br />
 
 <h2><a name = "Title5"> 5. Project Outputs (Technical Artefacts)</a></h2>
