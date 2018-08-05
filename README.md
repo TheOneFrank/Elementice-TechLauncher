@@ -50,7 +50,7 @@ Set up final version of development & prepare for poster showcase.
 <h3> 2.2 Evidence of Decision Making</h3>
 The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
 
-[Decision Making Sheet](https://docs.google.com/document/d/1rNijuexMwzqXhBVuOw6-GahGKt6cx17uGpKY4V0NzUo/edit)
+[Decision Making Sheet](https://docs.google.com/document/d/1L87AwEB-gYxqa1583W2CnAAb9BrHwLZ23GlzzrfUgWw/edit)
 
 
 <h3> 2.3 Traceability of Actions </h3>
@@ -113,7 +113,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 <h3> Status- Sprint 1 </h3>
 
-- Learn Angular JS5, Java, Javascript, database<br />
+- Learn Angular JS5, Java, Javascript, database, Node JS, Express Web Sockets<br />
 
 - Research on rostering system<br />
 
