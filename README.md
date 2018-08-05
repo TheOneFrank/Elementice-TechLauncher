@@ -1,5 +1,5 @@
 <div>
-<img src="" width="250" align="AbsBottom">
+<img src="https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/logo.svg" width="250" align="AbsBottom">
 
 <img src="" width="620" align="AbsBottom">
 </div>
