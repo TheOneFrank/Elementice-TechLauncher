@@ -176,10 +176,10 @@ We make decisions during the client meeting and scrum meeting and the decision m
 
 <h3> 5.1 Technical Depth of Outputs:</h3>
 <h4> Week 3 to week 4 </h3>
+
 <h4> Week 5 to week 6 </h3>
+
 <h4> Week 6 to week 7 </h3>
-<h4> Week 7 to week 8 </h3>
-<h4> Week 9 to week 10 </h3>
 
 
 We tried and used different tools in order to optimise our output
@@ -195,7 +195,7 @@ We tried and used different tools in order to optimise our output
 <br />
 
 
-<h2><a name = "Title6"> 6. Appropriate Documentation </a></h2>
+<h2><a name = "Title6"> 6. Support Documentation </a></h2>
 
 -  Documentation and Repository <br />
     [Google Drive](https://drive.google.com/drive/folders/1wbU5rIYncubDpdaH6Kf9xixHzuyPx0kw) <br />
