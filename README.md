@@ -14,18 +14,16 @@
 
 <h2><a name = "Title1"> 1.Project Overview </a></h2>
 
-[Elementice](https://www.elementice.com/) is an Australian tech start-up that creates the world’s best social marketing camera systems. Elementice started out as a group of snowboarding mates who just wanted to get awesome photos of ourselves quickly and easily, while making the most of our precious few snow days.
+[Elementice](https://www.elementice.com/) is an Australian tech start-up that creates social marketing camera systems. We partner silently with businesses to build their brand while adding value for their customers who share watermarked photos on social media. Where Businesses have traditionally been left out of the loop, we have developed a variety of automated camera systems that make it easy for any business to not only get the recognition they deserve on social media, but also turn their customers into brand ambassadors.
+Similar to the iconic bullet time sequences of Matrix fame, a "bullet time" camera rig allows the video to slow or stop time and change perspectives. 
+We have developed an early POC for a "bullet time" video rig and are looking for a TechLauncher team to progress the POC to a more market ready product and test it's viability for real world use.
+
 
 **Client's Vision**
-Automate current default values associated with productivity of construction companies with existing and future data. 
+Array of cameras, wirelessly send photos to local computer for post-processing and deliver the video to web within only a few minutes of capture. 
 
 **Project Value**
-Provide a user friendly platform that can calculate employees' productivity, roster and allocate employees, and generate smart decisions with users' data within the context of productivity.
-
-- Trade-Up clients including subcontractors are able to visualise the project work productivity instead of using paper & pen.
-- Subcontractors will be able to transition from collecting and tracking employees' workflow online instead of paper & pen approach.
-- Trade-Up will have the ability to transfer created calendar and resource estaimte algorithms to their other features.  
-- Rostering system that can allocate employees to each project . 
+Target application for the BulletKam product will start with an indoor, controlled environment with the goal to advance it to a more robust form factor to be used outdoors for Snowboarding, Mountain Biking etc.
 
 <br />
 <h2><a name = "Title2"> 2. Project Governance </a></h2>
