@@ -174,6 +174,7 @@ The team have engaged well in the planning and reporting process outlined by us 
 We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:
 
 [Decision Making Progress](https://docs.google.com/document/d/1L87AwEB-gYxqa1583W2CnAAb9BrHwLZ23GlzzrfUgWw/edit?usp=sharing)<br />
+<br />
 
 <h2><a name = "Title5"> 5. Project Outputs (Technical Artefacts)</a></h2>
 
