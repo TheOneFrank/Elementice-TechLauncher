@@ -75,11 +75,8 @@ The team have engaged well in the planning and reporting process outlined by us 
 | Patrick Benter                   |          |
 
 
-
-
-- We have meeting with clients and discuss what we did and what we are going to do. If anyone have more questions, they can organise individual meeting time with the client. Then team members and client will create tasks on JIRA. We assign tasks on JIRA and members will work together on some related tasks.
-
-- Team communication have been transitioned from Facebook to Slack where team have the opportunity to communicate with internal team members, client, tutor, and shadow team within one platform. 
+- The public communication channel is Slack.
+- The Trello page would be used to track our sprint process. https://trello.com/b/30blgFGs/elementice-bulletkam
 
 <h3> 2.5 Development Approach </h3>
 - The development approach we adapt is agile methodology. We hold weekly Saturday meetings consists of Scrum. The time of our weekly Scrum meeting is from 2pm - 3pm every Saturday at the provided workspace by Trade Up. 
