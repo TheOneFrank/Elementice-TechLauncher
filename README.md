@@ -210,7 +210,7 @@ We tried and used different tools in order to optimise our output
 
 <h2><a name = "Title6"> 6. Appropriate Documentation </a></h2>
 
--  <br />
+-  Google Drive <br />
     [Google Drive](https://drive.google.com/drive/folders/1wbU5rIYncubDpdaH6Kf9xixHzuyPx0kw) <br />
 - Client Meeting <br />
     [03/08/18](https://docs.google.com/document/d/1KPQ_Vtuntx5xbjOBj3keB5WUQnQEb-8WsLRibJSK-sg/edit) <br />
