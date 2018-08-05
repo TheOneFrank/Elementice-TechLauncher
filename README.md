@@ -7,7 +7,7 @@
 <a href = "#Title2"><b> 2. Project Governance </b></a><br/>
 <a href = "#Title3"><b> 3. Project Progress </b></a><br/>
 <a href = "#Title4"><b> 4. Decision Making </b></a><br/>
-<a href = "#Title5"><b> 5. Project Outputs </b></a><br/>
+<a href = "#Title5"><b> 5. Technical Tools </b></a><br/>
 <a href = "#Title6"><b> 6. Support Documentation</b></a><br/>
 <a href = "#Title7"><b> 7. Group Photo</b></a><br/>
 <br />
@@ -171,7 +171,7 @@ We make decisions during the client meeting and scrum meeting and the decision m
 
 <br />
 
-<h2><a name = "Title5"> 5. Project Outputs </a></h2>
+<h2><a name = "Title5"> 5. Technical Tools </a></h2>
 
 
 We tried and used different tools in order to optimise our output
