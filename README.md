@@ -55,9 +55,7 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 <h3> 2.3 Traceability of Actions </h3>
 
-[See Jira Work log](https://tradeup123.atlassian.net/projects/TR/summary)
-
-[JIRA Dashboard](https://tradeup123.atlassian.net/secure/Dashboard.jspa)
+The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be used to track our sprint process. 
 
 
 <h3> 2.4 Team </h3>
@@ -74,7 +72,6 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 
 - The public communication channel is Slack.
-- The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be used to track our sprint process. 
 
 <h3> 2.5 Development Approach </h3>
 - The development approach we adapt is agile methodology. We hold weekly Saturday meetings consists of Scrum. The time of our weekly Scrum meeting is from 2pm - 3pm every Saturday at the provided workspace by Trade Up. 
