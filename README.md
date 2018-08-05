@@ -5,9 +5,9 @@
 <h2><a name = "content"> Table of Contents </a></h2>
 <a href = "#Title1"><b> 1. Project Overview </b></a><br/>
 <a href = "#Title2"><b> 2. Project Governance </b></a><br/>
-<a href = "#Title3"><b> 3. Project Progress (With value delivered to client)</b></a><br/>
-<a href = "#Title4"><b> 4. Effective and Appropriate Decision Making </b></a><br/>
-<a href = "#Title5"><b> 5. Project Outputs (Technical Artefacts)</b></a><br/>
+<a href = "#Title3"><b> 3. Project Progress </b></a><br/>
+<a href = "#Title4"><b> 4. Decision Making </b></a><br/>
+<a href = "#Title5"><b> 5. Technical Tools </b></a><br/>
 <a href = "#Title6"><b> 6. Support Documentation</b></a><br/>
 <a href = "#Title7"><b> 7. Group Photo</b></a><br/>
 <br />
@@ -85,7 +85,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 
 <br />
-<h2><a name = "Title3"> 3. Project Progress (With value delivered to client)</a></h2>
+<h2><a name = "Title3"> 3. Project Progress </a></h2>
 
 <table borde r= 3>
 <tr align = "center">
@@ -176,18 +176,21 @@ We make decisions during the client meeting and scrum meeting and the decision m
 [Decision Making Progress](https://docs.google.com/document/d/1L87AwEB-gYxqa1583W2CnAAb9BrHwLZ23GlzzrfUgWw/edit?usp=sharing)<br />
 <br />
 
-<h2><a name = "Title5"> 5. Project Outputs (Technical Artefacts)</a></h2>
-
+<h2><a name = "Title5"> 5. Technical Tools </a></h2>
 
 We tried and used different tools in order to optimise our output
 - **Node.js** for front end development
 - **HTML5** for front end development
 - **MongoDB** for database
-- **ARM based CPU** for harware
+- **ARM based CPU** for hardware
 - **Trello** for tracing progress
 - **Slack** for team communication
 - **Github** for landing page
 - **Google Drive** for support documentations and images
+
+<img src="https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/nanoPi.JPG" width="300" height="300" align="AbsBottom">
+<p align="left" vertical-align="center"><b> NanoPi </b></p>
+
 
 <br />
 
