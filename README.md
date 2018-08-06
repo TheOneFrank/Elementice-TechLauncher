@@ -200,11 +200,11 @@ We tried and used different tools in order to optimise our output
     [GitHub](https://github.com/TheOneFrank/Elementice-TechLauncher) <br />
     [Trello](https://trello.com/b/30blgFGs/elementice-bulletkam)
 - Client Meeting <br />
-    [03/08/18](https://docs.google.com/document/d/1KPQ_Vtuntx5xbjOBj3keB5WUQnQEb-8WsLRibJSK-sg/edit) <br />
-- Group Meeting Notes <br />
-    [31/07/18](https://docs.google.com/document/d/1gKmx6XwcPaOOzmSzXxElJdsHmVB6xTTmF0CO8n4Yw0Q/edit)    
+    [Folder](https://drive.google.com/drive/folders/1HNsMFh45O15iycRb5xJU2Qr06R3VxvvO) <br />
+- Team Meeting Notes <br />
+    [Folder](https://drive.google.com/drive/folders/1MqJXDJXz_PkKry9LteJu_8273lE3ATll)    
 - Audit Presentation <br />
-    [Audit 1](https://docs.google.com/presentation/d/1u_KKXo2D0JObAy4TNxA3SoxCWnAuedRpn-QycyimeSU/edit#slide=id.p)  
+    [Folder](https://drive.google.com/drive/folders/1fPzpvzTWxrPtCcT2dScYcNjS93QUoWxv)  
 
 
 <br />
