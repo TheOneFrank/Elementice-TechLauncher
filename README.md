@@ -41,6 +41,7 @@ Target application for the BulletKam product will start with an indoor, controll
 >**Sprint 4** (Week 10 - Week 12)<br />
 
 <h4>Milestone 2</h4>
+<body><a href = "#Title3"><b> 3. Project Progress </b></a><br/></body>
 
 <h3> 2.2 Traceability of Actions </h3>
 
