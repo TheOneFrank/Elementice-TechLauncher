@@ -98,7 +98,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
-<td><b>30/08 to 12/08</b></td>
+<td><b>30/07 to 12/08</b></td>
 </tr>
 </table>
 
@@ -108,7 +108,9 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 - Discuss and determine the details of the product with clients<br />
 
-- Research on camera system<br />
+- Getting nanoPI setting up<br />
+
+- Give a clear vision of process map<br />
 
 
 <table borde r= 3>
@@ -117,55 +119,23 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 <th>sprint 2</th>
 </tr>
 <tr align = "center">
-<td><b>Total sprints in this semester</b></td>
-<td><b>3</b></td>
+<td><b>Total weeks in this Sprints</b></td>
+<td><b>2</b></td>
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
-<td><b>13th August to 2nd September</b></td>
+<td><b>13/08 to 02/09</b></td>
 </tr>
 </table>
 
 <h3> Sprint 2 </h3>
 
-- Learn Angular JS5, Java, Javascript, Node JS, Express Web Sockets, MangoDB, HTML5, ARM based CPU for futher step<br />
+>**Front End Goal:** Web interface Design & Actions<br />
 
-- Discuss, design and optimise the prototype of the product<br />
-
-- Design the UI of application
-
-- Get feedback from our client<br />
-
-- Programming for front-end, back-end<br />
-
-
-
-<table borde r= 3>
-<tr align = "center">
-<th>sprint</th>
-<th>sprint 3</th>
-</tr>
-<tr align = "center">
-<td><b>Total sprints in this semester</b></td>
-<td><b>3</b></td>
-</tr>
-<tr align = "center">
-<td><b>Period</b></td>
-<td><b>17th September to 14th October</b></td>
-</tr>
-</table>
-
-
-<h3> Sprint 3 </h3>
-
-- Improve our UI design of our application from the feedback<br />
-
-- Connect the front-end and back-end<br />
-
-- Optimise the system of our product<br />
-
-- Array of the cameras, that can take a photo at exactly the same time, download the images, stitch together and ouput video to web<br />
-
+>**Back End Goal:** Architecture for file handling<br />
+ >PIs connetcting to AP + Send File
+ 
+>Design UML diagram for whole system view<br />
 
 <br />
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
