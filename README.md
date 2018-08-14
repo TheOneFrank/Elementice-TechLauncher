@@ -28,21 +28,26 @@ Target application for the BulletKam product will start with an indoor, controll
 <br />
 <h2><a name = "Title2"> 2. Project Governance </a></h2>
 
-<h3> 2.1 Milestones </h3>
-
-<h4>Milestone 1: Project Calendar</h4>
+<h3> 2.1 Project Schedule </h3>
 
 >**Sprint 1** (Week 2 - Week 3)<br />
-Watch tutorials, discuss and determine the features of the product with clients and research camera system.
+- Get access and set up to nanoPi
+- Self study on node.js
+- Preparing PPT for Audit 1
+
 
 >**Sprint 2** (Week 4 - Week 6)<br />
-Design the UI of application, start development of project, get feedback from clients and programming.
+- Design the web interface
+- Architecture for file handling
+- UML diagram for whole view
 
-<h4>Milestone 2: Employee Rostering</h4>
+<h4>Milestone 1</h4>
 
->**Sprint 3** (Week 7 - Week 10)<br />
-Improve the product with the feedback from tutor and clients, optimise the product, set up a primal version of development & prepare for poster showcase.
+>**Sprint 3** (Week 7 - Week 9)<br />
 
+>**Sprint 4** (Week 9 - Week 11)<br />
+
+<h4>Milestone 2</h4>
 
 <h3> 2.2 Traceability of Actions </h3>
 
@@ -51,15 +56,15 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 <h3> 2.3 Team </h3>
 
-| Team Member                      |              Role               |              Email              | 
-| ---------------------------------| ------------------------------- | ------------------------------- |  
-| Peter Presneill                  | Client                          | peter@elementice.com            |
-| Ben Hegarty                      | Client                          | ben@elementice.com              | 
-| De Zhang                         | Technical Leader, Programmer    | u6137069@anu.edu.au             |
-| Tianhao Li                       | Project Manager, Programmer     | u6071904@anu.edu.au             |
-| Yu Gu                            | Program Designer, Programmer    | u6013813@anu.edu.au             |
-| James Presneill                  | Reporter                        | u5678952@anu.edu.au             |
-| Patrick Benter                   | Full Stack Programmer           | u5583834@anu.edu.au             |
+| Team Member                      |              Role                         |              Email              | 
+| ---------------------------------| ----------------------------------------- | ------------------------------- |  
+| Peter Presneill                  | Client                                    | peter@elementice.com            |
+| Ben Hegarty                      | Client                                    | ben@elementice.com              | 
+| James Presneill                  | Client, Industrial Design, Manufacturing  | u5678952@anu.edu.au             |
+| De Zhang                         | Technical Leader, Programmer              | u6137069@anu.edu.au             |
+| Tianhao Li                       | Project Manager, Programmer               | u6071904@anu.edu.au             |
+| Yu Gu                            | Program Designer, Programmer              | u6013813@anu.edu.au             |
+| Patrick Benter                   | Full Stack Programmer                     | u5583834@anu.edu.au             |
 
 
 - The public communication channel is [Slack](https://techlauncherbulletkam.slack.com/messages/CC005DM7F/).
