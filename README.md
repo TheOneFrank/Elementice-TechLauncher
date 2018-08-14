@@ -28,13 +28,12 @@ Target application for the BulletKam product will start with an indoor, controll
 <br />
 <h2><a name = "Title2"> 2. Project Governance </a></h2>
 
-<h3> 2.1 Project Schedule </h3>
+<h3> 2.1 Project Timeline </h3>
 
 >**Sprint 1** (Week 2 - Week 3)<br />
 - Get access and set up to nanoPi
 - Self study on node.js
 - Preparing PPT for Audit 1
-
 
 >**Sprint 2** (Week 4 - Week 6)<br />
 - Design the web interface
@@ -45,7 +44,7 @@ Target application for the BulletKam product will start with an indoor, controll
 
 >**Sprint 3** (Week 7 - Week 9)<br />
 
->**Sprint 4** (Week 9 - Week 11)<br />
+>**Sprint 4** (Week 10 - Week 12)<br />
 
 <h4>Milestone 2</h4>
 
