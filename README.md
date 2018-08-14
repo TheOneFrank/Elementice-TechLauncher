@@ -102,7 +102,6 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </tr>
 </table>
 
-</br>
 <h3> Sprint 1 </h3>
 
 **Learning:**
@@ -113,6 +112,8 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 **Prospective Vision:**
 >Give a clear vision of process map<br />
+
+</br>
 
 <table borde r= 3>
 <tr align = "center">
@@ -128,8 +129,6 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 <td><b>13/08 to 02/09</b></td>
 </tr>
 </table>
-
-</br>
 
 <h3> Sprint 2 </h3>
 
