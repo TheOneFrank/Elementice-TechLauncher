@@ -104,13 +104,14 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 <h3> Sprint 1 </h3>
 
-- Learn Angular JS5, Java, Javascript, Node JS, Express Web Sockets, MangoDB, HTML5, ARM based CPU<br />
+**Learning:**
+>Learn Angular JS5, Java, Javascript, Node JS, Express Web Sockets, MangoDB, HTML5, ARM based CPU<br />
 
-- Discuss and determine the details of the product with clients<br />
+**Hardware preparation:**
+>Getting nanoPI setting up<br />
 
-- Getting nanoPI setting up<br />
-
-- Give a clear vision of process map<br />
+**Prospective Vision:**
+>Give a clear vision of process map<br />
 
 
 <table borde r= 3>
@@ -132,9 +133,11 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 >**Front End Goal:** Web interface Design & Actions<br />
 
->**Back End Goal:** Architecture for file handling<br />
- >PIs connetcting to AP + Send File
- 
+>**Back End Goal:** 
+>Architecture for file handling<br />
+>PIs connetcting to AP + Send File
+
+>**Vision**
 >Design UML diagram for whole system view<br />
 
 <br />
