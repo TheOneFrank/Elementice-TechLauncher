@@ -128,7 +128,8 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </tr>
 </table>
 
-**Front End Goal:** Web interface Design & Actions<br />
+**Front End Goal:** 
+>Web interface Design & Actions<br />
 
 **Back End Goal:** 
 >Architecture for file handling<br />
