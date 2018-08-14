@@ -31,14 +31,8 @@ Target application for the BulletKam product will start with an indoor, controll
 <h3> 2.1 Project Timeline </h3>
 
 >**Sprint 1** (Week 2 - Week 3)<br />
-- Get access and set up to nanoPi
-- Self study on node.js
-- Preparing PPT for Audit 1
 
 >**Sprint 2** (Week 4 - Week 6)<br />
-- Design the web interface
-- Architecture for file handling
-- UML diagram for whole view
 
 <h4>Milestone 1</h4>
 
@@ -97,12 +91,12 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 <th>sprint 1</th>
 </tr>
 <tr align = "center">
-<td><b>Total sprints in this semester</b></td>
-<td><b>3</b></td>
+<td><b>Total weeks in this Sprints</b></td>
+<td><b>2</b></td>
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
-<td><b>30th July to 12th August</b></td>
+<td><b>30/08 to 12/08</b></td>
 </tr>
 </table>
 
