@@ -102,8 +102,6 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </tr>
 </table>
 
-<h3> Sprint 1 </h3>
-
 **Learning:**
 >Learn Angular JS5, Java, Javascript, Node JS, Express Web Sockets, MangoDB, HTML5, ARM based CPU<br />
 
@@ -129,8 +127,6 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 <td><b>13/08 to 02/09</b></td>
 </tr>
 </table>
-
-<h3> Sprint 2 </h3>
 
 **Front End Goal:** Web interface Design & Actions<br />
 
