@@ -28,21 +28,21 @@ Target application for the BulletKam product will start with an indoor, controll
 <br />
 <h2><a name = "Title2"> 2. Project Governance </a></h2>
 
-<h3> 2.1 Milestones </h3>
-
-<h4>Milestone 1: Project Calendar</h4>
+<h3> 2.1 Project Timeline </h3>
 
 >**Sprint 1** (Week 2 - Week 3)<br />
-Watch tutorials, discuss and determine the features of the product with clients and research camera system.
 
 >**Sprint 2** (Week 4 - Week 6)<br />
-Design the UI of application, start development of project, get feedback from clients and programming.
 
-<h4>Milestone 2: Employee Rostering</h4>
+<h4>Milestone 1</h4>
 
->**Sprint 3** (Week 7 - Week 10)<br />
-Improve the product with the feedback from tutor and clients, optimise the product, set up a primal version of development & prepare for poster showcase.
+>**Sprint 3** (Week 7 - Week 9)<br />
 
+>**Sprint 4** (Week 10 - Week 12)<br />
+
+<h4>Milestone 2</h4>
+
+See more details on <a href = "#Title3"><b> Section 3</b></a><br/>
 
 <h3> 2.2 Traceability of Actions </h3>
 
@@ -93,23 +93,25 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 <th>sprint 1</th>
 </tr>
 <tr align = "center">
-<td><b>Total sprints in this semester</b></td>
-<td><b>3</b></td>
+<td><b>Total weeks in this Sprints</b></td>
+<td><b>2</b></td>
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
-<td><b>30th July to 12th August</b></td>
+<td><b>30/07 to 12/08</b></td>
 </tr>
 </table>
 
-<h3> Sprint 1 </h3>
+**Learning:**
+>Learn Angular JS5, Java, Javascript, Node JS, Express Web Sockets, MangoDB, HTML5, ARM based CPU<br />
 
-- Learn Angular JS5, Java, Javascript, Node JS, Express Web Sockets, MangoDB, HTML5, ARM based CPU<br />
+**Hardware preparation:**
+>Getting nanoPI setting up<br />
 
-- Discuss and determine the details of the product with clients<br />
+**Prospective Vision:**
+>Give a clear vision of process map<br />
 
-- Research on camera system<br />
-
+</br>
 
 <table borde r= 3>
 <tr align = "center">
@@ -117,55 +119,24 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 <th>sprint 2</th>
 </tr>
 <tr align = "center">
-<td><b>Total sprints in this semester</b></td>
-<td><b>3</b></td>
+<td><b>Total weeks in this Sprints</b></td>
+<td><b>2</b></td>
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
-<td><b>13th August to 2nd September</b></td>
+<td><b>13/08 to 02/09</b></td>
 </tr>
 </table>
 
-<h3> Sprint 2 </h3>
+**Front End Goal:** 
+>Web interface Design & Actions<br />
 
-- Learn Angular JS5, Java, Javascript, Node JS, Express Web Sockets, MangoDB, HTML5, ARM based CPU for futher step<br />
+**Back End Goal:** 
+>Architecture for file handling<br />
+>PIs connetcting to AP + Send File
 
-- Discuss, design and optimise the prototype of the product<br />
-
-- Design the UI of application
-
-- Get feedback from our client<br />
-
-- Programming for front-end, back-end<br />
-
-
-
-<table borde r= 3>
-<tr align = "center">
-<th>sprint</th>
-<th>sprint 3</th>
-</tr>
-<tr align = "center">
-<td><b>Total sprints in this semester</b></td>
-<td><b>3</b></td>
-</tr>
-<tr align = "center">
-<td><b>Period</b></td>
-<td><b>17th September to 14th October</b></td>
-</tr>
-</table>
-
-
-<h3> Sprint 3 </h3>
-
-- Improve our UI design of our application from the feedback<br />
-
-- Connect the front-end and back-end<br />
-
-- Optimise the system of our product<br />
-
-- Array of the cameras, that can take a photo at exactly the same time, download the images, stitch together and ouput video to web<br />
-
+**Vision**
+>Design UML diagram for whole system view<br />
 
 <br />
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
@@ -200,11 +171,11 @@ We tried and used different tools in order to optimise our output
     [GitHub](https://github.com/TheOneFrank/Elementice-TechLauncher) <br />
     [Trello](https://trello.com/b/30blgFGs/elementice-bulletkam)
 - Client Meeting <br />
-    [03/08/18](https://docs.google.com/document/d/1KPQ_Vtuntx5xbjOBj3keB5WUQnQEb-8WsLRibJSK-sg/edit) <br />
-- Group Meeting Notes <br />
-    [31/07/18](https://docs.google.com/document/d/1gKmx6XwcPaOOzmSzXxElJdsHmVB6xTTmF0CO8n4Yw0Q/edit)    
+    [Folder](https://drive.google.com/drive/folders/1HNsMFh45O15iycRb5xJU2Qr06R3VxvvO) <br />
+- Team Meeting Notes <br />
+    [Folder](https://drive.google.com/drive/folders/1MqJXDJXz_PkKry9LteJu_8273lE3ATll)    
 - Audit Presentation <br />
-    [Audit 1](https://docs.google.com/presentation/d/1u_KKXo2D0JObAy4TNxA3SoxCWnAuedRpn-QycyimeSU/edit#slide=id.p)  
+    [Folder](https://drive.google.com/drive/folders/1fPzpvzTWxrPtCcT2dScYcNjS93QUoWxv)  
 
 
 <br />
