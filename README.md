@@ -51,15 +51,15 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 <h3> 2.3 Team </h3>
 
-| Team Member                      |              Role                         |              Email              | 
-| ---------------------------------| ----------------------------------------- | ------------------------------- |  
-| Peter Presneill                  | Client                                    | peter@elementice.com            |
-| Ben Hegarty                      | Client                                    | ben@elementice.com              | 
-| James Presneill                  | Client, Industrial Design, Manufacturing  | u5678952@anu.edu.au             |
-| De Zhang                         | Technical Leader, Programmer              | u6137069@anu.edu.au             |
-| Tianhao Li                       | Project Manager, Programmer               | u6071904@anu.edu.au             |
-| Yu Gu                            | Program Designer, Programmer              | u6013813@anu.edu.au             |
-| Patrick Benter                   | Full Stack Programmer                     | u5583834@anu.edu.au             |
+| Team Member                      |              Role                        |              Email              | 
+| ---------------------------------| -----------------------------------------| ------------------------------- |  
+| Peter Presneill                  | Client                                   | peter@elementice.com            |
+| Ben Hegarty                      | Client                                   | ben@elementice.com              | 
+| De Zhang                         | Technical Leader, Back-End Programmer    | u6137069@anu.edu.au             |
+| Tianhao Li                       | Project Manager, Font-End Programmer     | u6071904@anu.edu.au             |
+| Yu Gu                            | Program Designer, Front-End Programmer   | u6013813@anu.edu.au             |
+| James Presneill                  | Reporter                                 | u5678952@anu.edu.au             |
+| Patrick Benter                   | Full Stack Programmer                    | u5583834@anu.edu.au             |
 
 
 - The public communication channel is [Slack](https://techlauncherbulletkam.slack.com/messages/CC005DM7F/).
