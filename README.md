@@ -104,7 +104,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </table>
 
 **Learning:**
->Learn Angular JS5, Javascript, Node JS, Express Web Sockets, MangoDB, HTML5, ARM based CPU<br />
+>Learn Angular JS5, Javascript, Node JS, MangoDB, HTML5, ARM based CPU<br />
 
 **Hardware preparation:**
 >Getting nanoPI setting up<br />
