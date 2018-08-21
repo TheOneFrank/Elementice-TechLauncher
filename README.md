@@ -59,7 +59,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 | De Zhang                         | Technical Leader, Back-End Programmer    | u6137069@anu.edu.au             |
 | Tianhao Li                       | Project Manager, Font-End Programmer     | u6071904@anu.edu.au             |
 | Yu Gu                            | Program Designer, Front-End Programmer   | u6013813@anu.edu.au             |
-| Patrick Benter                   | Full Stack Programmer, Hardware Technican| u5583834@anu.edu.au             |
+| Patrick Benter                   | FullStack Programmer, Hardware Technician| u5583834@anu.edu.au             |
 
 
 
