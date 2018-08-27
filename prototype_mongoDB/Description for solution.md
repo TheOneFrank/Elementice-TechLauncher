@@ -1,8 +1,8 @@
-#Solution for file handling in Elementice Bulletkam project
+# Solution for file handling in Elementice Bulletkam project
 
-##Preliminary Decision making:
+## Preliminary Decision making:
 
-###Why MongoDB?
+### Why MongoDB?
 
 It’s a distributed NoSQL database system which has advantages of
 ```
@@ -14,7 +14,7 @@ speed
 Since, we cannot define schema of our project and we require high performance on queries.
 The MongoDB seems like a perfect choice to our scenario
 
-###Why do we need GridFS?
+### Why do we need GridFS?
 
 GridFS is a specification for storing and retrieving files that exceed the BSON-document size limit of 16 MB.
 
@@ -24,13 +24,13 @@ Multer – GridFS storage engine for Multer to store uploaded files directly 
 Gridfs-stream - Easily stream files to and from MongoDB GridFS. E.g. display images which we upload and delete file from database.
 ```
 
-###Why switch from MongoDB atlas to mlab?
+### Why switch from MongoDB atlas to mlab?
 
 Two remote clouds bring substantial functions. However, mlab provide more support on database support, backups, or data transfer with no extra charges compare to atlas.
 
 How is the data stored in database looked like?
 
-##Implementing and learning roadmap
+## Implementing and learning roadmap
 * create package.json file "npm init"
 * add dependencies "npm i express ejs body-parser mongoose multer multer-gridfs-storage gridfs-stream method-override"
 * add dev dependency - to avoid keep restarting the server, make constantly watch. "npm i --save-dev nodemon"
