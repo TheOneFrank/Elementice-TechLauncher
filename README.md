@@ -55,11 +55,12 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 | ---------------------------------| -----------------------------------------| ------------------------------- |  
 | Peter Presneill                  | Client                                   | peter@elementice.com            |
 | Ben Hegarty                      | Client                                   | ben@elementice.com              | 
+| James Presneill                  | Client, Industrial Design, Manufacturing | u5678952@anu.edu.au             |
 | De Zhang                         | Technical Leader, Back-End Programmer    | u6137069@anu.edu.au             |
 | Tianhao Li                       | Project Manager, Font-End Programmer     | u6071904@anu.edu.au             |
 | Yu Gu                            | Program Designer, Front-End Programmer   | u6013813@anu.edu.au             |
-| James Presneill                  | Client, Industrial Design, Manufacturing | u5678952@anu.edu.au             |
-| Patrick Benter                   | Full Stack Programmer                    | u5583834@anu.edu.au             |
+| Patrick Benter                   | FullStack Programmer, Hardware Technician| u5583834@anu.edu.au             |
+
 
 
 - The public communication channel is [Slack](https://techlauncherbulletkam.slack.com/messages/CC005DM7F/).
@@ -103,7 +104,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </table>
 
 **Learning:**
->Learn Angular JS5, Java, Javascript, Node JS, Express Web Sockets, MangoDB, HTML5, ARM based CPU<br />
+>Learn Angular JS5, Javascript, Node JS, MangoDB, HTML5, ARM based CPU<br />
 
 **Hardware preparation:**
 >Getting nanoPI setting up<br />
