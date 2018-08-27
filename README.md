@@ -149,8 +149,8 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 **Value delivered to the client**
 >[The design of the whole system(Include the overview and details of the system)](https://drive.google.com/open?id=1CJQUn8CsRM_mGiBNNatr0xaESkelWQOR)<br />
->The features of our system<br />
->The method to implement the features
+>[The features of our system](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)<br />
+>[The method to implement the features](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)
 
 <br />
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
