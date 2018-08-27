@@ -139,17 +139,17 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 >Design ER diagram for whole system view<br />
 
 **Technical artefacts**
->ER Diagram(the overview of the system)
->The considerations of the whole system
->The functions that the system needs to achieve the goal
->The design of the interface
->Code of the interface
->Research of the MongoDB
+>ER Diagram(the overview of the system)<br />
+>The considerations of the whole system<br />
+>The functions that the system needs to achieve the goal<br />
+>The design of the interface<br />
+>Code of the interface<br />
+>Research of the MongoDB<br />
 >The ptototype of the interface
 
 **Value delivered to the client**
->The design of the whole system(Include the overview and details of the system)
->The features of our system
+>The design of the whole system(Include the overview and details of the system)<br />
+>The features of our system<br />
 >The method to implement the features
 
 <br />
