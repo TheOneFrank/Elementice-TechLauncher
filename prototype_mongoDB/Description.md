@@ -28,10 +28,21 @@ Since MongoDB has a size limit on BSON document which is 16MB, we need tools to 
 
 Two remote clouds bring substantial functions. However, mlab provide more support on database support, backups, or data transfer with no extra charges compare to atlas.
 
-How is the data stored in database looked like?
+### How file store in database?
+
+The file is breaked into two collections:
+
+* fs.chunks - store the actual data of file, each chunck is linked to the information of file by "files_id"
+* fs.files - store the information of file e.g. filename, average size of each chunck..etc.
+
 
 ## 2. Implementing and learning roadmap:
 * create package.json file ```npm init```
 * add dependencies ```npm i express ejs body-parser mongoose multer multer-gridfs-storage gridfs-stream method-override```
 * add dev dependency - to avoid keep restarting the server, make constantly watch. ```npm i --save-dev nodemon```
 * add start and dev scripts in package.json
+
+## 3. How our file handling system look like: 
+[](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/IMG_1462.JPG)
+
+
