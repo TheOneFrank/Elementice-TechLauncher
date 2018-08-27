@@ -1,6 +1,6 @@
 # Solution for file handling in Elementice Bulletkam project
 
-## Preliminary Decision making:
+## 1. Preliminary Decision making:
 
 ### Why MongoDB?
 
@@ -30,7 +30,7 @@ Two remote clouds bring substantial functions. However, mlab provide more suppor
 
 How is the data stored in database looked like?
 
-## Implementing and learning roadmap
+## 2. Implementing and learning roadmap:
 * create package.json file "npm init"
 * add dependencies "npm i express ejs body-parser mongoose multer multer-gridfs-storage gridfs-stream method-override"
 * add dev dependency - to avoid keep restarting the server, make constantly watch. "npm i --save-dev nodemon"
