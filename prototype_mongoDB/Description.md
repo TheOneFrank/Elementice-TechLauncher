@@ -43,6 +43,8 @@ The file is breaked into two collections:
 * add start and dev scripts in package.json
 
 ## 3. How our file handling system look like: 
-![](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/file handle.png)
+![](
+      Elementice-TechLauncher/Images/file handle.png
+    )
 
 
