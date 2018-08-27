@@ -5,12 +5,12 @@
 ### Why MongoDB?
 
 It’s a distributed NoSQL database system which has advantages of
-```
-dynamic schema,
-scalability,
-flexibility,
-speed
-```  
+
+* dynamic schema
+* scalability
+* flexibility
+* speed
+ 
 Since, we cannot define schema of our project and we require high performance on queries.
 The MongoDB seems like a perfect choice to our scenario
 
@@ -19,10 +19,10 @@ The MongoDB seems like a perfect choice to our scenario
 GridFS is a specification for storing and retrieving files that exceed the BSON-document size limit of 16 MB.
 
 Since MongoDB has a size limit on BSON document which is 16MB, we need tools to handle large media files, images and videos.
-```
+
 * Multer – GridFS storage engine for Multer to store uploaded files directly to MongoDb.
 * Gridfs-stream - Easily stream files to and from MongoDB GridFS. E.g. display images which we upload and delete file from database.
-```
+
 
 ### Why switch from MongoDB atlas to mlab?
 
