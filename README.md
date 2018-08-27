@@ -146,6 +146,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 >[The design of the interface](https://drive.google.com/open?id=1tYpYH7X7vLVCQle7PQ59XqNQSB6GeJx9)<br />
 >Code of the interface<br />
 >Research of the MongoDB<br />
+>Create and test the server(The client can send the file to the server and the server will save it)<br />
 >The ptototype of the interface
 
 **Value delivered to the client**
@@ -191,6 +192,8 @@ We tried and used different tools in order to optimise our output
     [Folder](https://drive.google.com/drive/folders/1MqJXDJXz_PkKry9LteJu_8273lE3ATll)    
 - Audit Presentation <br />
     [Folder](https://drive.google.com/drive/folders/1fPzpvzTWxrPtCcT2dScYcNjS93QUoWxv)  
+- Weekly Acticity Log <br />
+     [Folder](https://drive.google.com/open?id=1RtZmbbrm3xqs5uMXlN6oc_es2W60AJLOnHqxxLr1-is)
 
 
 <br />
