@@ -133,7 +133,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 >Web interface Design & Actions<br />
 
 **Back End Goal:** 
->Architecture for file handling [Description.md](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/prototype_mongoDB/Description.md) <br />
+>[Architecture for file handling](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/prototype_mongoDB/Description.md) <br />
 >PIs connetcting to AP + Send File
 
 **Vision**
