@@ -148,7 +148,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </tr>
 <tr align = "center">
 <td><b>Total weeks in this Sprints</b></td>
-<td><b>2</b></td>
+<td><b>5</b></td>
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
