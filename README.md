@@ -136,7 +136,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 >[Architecture for file handling](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/prototype_mongoDB/Description.md) <br />
 >PIs connetcting to AP + Send File
 
-**Vision**
+**Vision:**
 >Design UML diagram for whole system view<br />
 
 </br>
@@ -163,7 +163,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 > <br />
 >
 
-**Vision**
+**Vision:**
 > <br />
 
 
