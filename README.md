@@ -152,7 +152,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </tr>
 <tr align = "center">
 <td><b>Period</b></td>
-<td><b>13/08 to 02/09</b></td>
+<td><b>31/08 to 09/10</b></td>
 </tr>
 </table>
 
