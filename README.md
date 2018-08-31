@@ -166,7 +166,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 **Vision:**
 > <br />
 
-
+<br/>
 
 **Technical artefacts**
 >[UML Diagram(the overview of the system)](https://drive.google.com/open?id=1qltKvxhbFka6-_lityCC8EJKUWDOyNFl)<br />
