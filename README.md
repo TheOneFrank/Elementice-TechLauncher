@@ -137,7 +137,34 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 >PIs connetcting to AP + Send File
 
 **Vision**
->Design ER diagram for whole system view<br />
+>Design UML diagram for whole system view<br />
+
+<table borde r= 3>
+<tr align = "center">
+<th>sprint</th>
+<th>sprint 3</th>
+</tr>
+<tr align = "center">
+<td><b>Total weeks in this Sprints</b></td>
+<td><b>2</b></td>
+</tr>
+<tr align = "center">
+<td><b>Period</b></td>
+<td><b>13/08 to 02/09</b></td>
+</tr>
+</table>
+
+**Front End Goal:** 
+><br />
+
+**Back End Goal:** 
+>[<br />
+>
+
+**Vision**
+><br />
+
+
 
 **Technical artefacts**
 >[UML Diagram(the overview of the system)](https://drive.google.com/open?id=1qltKvxhbFka6-_lityCC8EJKUWDOyNFl)<br />
