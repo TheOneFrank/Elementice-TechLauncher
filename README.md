@@ -139,6 +139,8 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 **Vision**
 >Design UML diagram for whole system view<br />
 
+</br>
+
 <table borde r= 3>
 <tr align = "center">
 <th>sprint</th>
@@ -155,14 +157,14 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </table>
 
 **Front End Goal:** 
-><br />
+> <br />
 
 **Back End Goal:** 
->[<br />
+> <br />
 >
 
 **Vision**
-><br />
+> <br />
 
 
 
