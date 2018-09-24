@@ -2,7 +2,7 @@ const fs = require('file-system');
 const request = require('request');
 
 const Gpio = require('onoff').Gpio;
-const button = new Gpio(203, 'in', 'rising', {debounceTimeout: 10});
+const button = new Gpio(203, 'in', 'rising', {debounceTimeout: 10}); // Pin 7 in
 const exec = require('child_process').execSync;
 
 const destination_ip = 'http://192.168.0.100';
