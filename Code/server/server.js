@@ -1,7 +1,7 @@
 const express  = require("express");
 const multer  = require("multer");
+const request = require("request");
 const app  = express();
-// const ws = require('express-ws')(app);
 
 const storage = multer.diskStorage({
     destination: function (req, file, cb) {
@@ -18,12 +18,14 @@ app.post('/upload', upload.single('image'), function(req,res){
     res.sendStatus(200); // OK
 });
 
+const destination_ip = 'http://192.168.0.109';
+const destination_port = ':3000';
 if (true){
-    app.post('/trigger', function (req, res) {
-        res.send('trigger');
-    })
+    request.post({url: destination_ip + destination_port + '/trigger'}, function (err, res, body) {
+        if (err) {return console.error('Trigger failed:', err);}
+        console.log('Camera triggered, server: ', body);
+    });
 }
-
 
 app.listen(3000,function(){
   console.log("Started on PORT 3000");

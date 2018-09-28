@@ -1,9 +1,11 @@
 const express  = require("express");
-const app  = express();
-
 const Gpio = require('onoff').Gpio;
+const app  = express();
 const trigger = new Gpio(203, 'out'); // Pin 7 out
 
+// Needs sudo to run since pins are not yet exported
+
+// Triggering again while receiving server is still running will create an error
 app.post('/trigger', function(req,res){
     console.log('Camera trigger received');
 
