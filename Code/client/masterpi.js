@@ -13,7 +13,7 @@ app.post('/trigger', function(req,res){
     setTimeout(function() {
         trigger.writeSync(0);
         trigger.unexport();
-    }), 100 // Send signal for 100ms
+    }, 100) // Send signal for 100ms
     res.sendStatus(200); // OK
 });
 
