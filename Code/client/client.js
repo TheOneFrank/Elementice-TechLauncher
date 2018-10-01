@@ -5,13 +5,14 @@ const Gpio = require('onoff').Gpio;
 const button = new Gpio(203, 'in', 'rising', {debounceTimeout: 10}); // Pin 7 in
 const exec = require('child_process').execSync;
 
-const destination_ip = 'http://192.168.0.100';
+const destination_ip = 'http://192.168.43.10'; // Server
 const destination_port = ':3000';
 
 // Needs fswebcam installed to work
 // TODO Add npm dependencies
 
 // Needs to run as root while gpio is not permitted
+// Create upload folder if doens't exist
 
 button.watch((err, value) => {
     if (err) {throw err;}

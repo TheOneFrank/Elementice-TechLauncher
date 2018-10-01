@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.videoBox {
+    width: 800px;
+    /* overflow: hidden; */
+    margin: auto;
+    position: relative;
+}
+
+.mask {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 800px;
+    height: 534px;
+    background: #000;
+    color: #fff;
+    text-align: center;
+    line-height: 534px;
+    font-size: 50px;
+    font-weight: bold;
+    z-index: 999999999;
+}
+
+.videonSilder {
+    width: 800px;
+    height: auto;
+    height: 534px;
+    position: relative;
+}
+
+.videonSilder video, .videonSilder img {
+    width: 800px;
+    height: 534px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+}
+
+video:first-child, img:first-child {
+    opacity: 1;
+}
+
+.videonControl {
+    position: relative;
+}
+
+.swiper-container {
+    width: 700px;
+    margin-top: 30px;
+}
+
+.swiper-button-next,
+.swiper-container-rtl .swiper-button-prev {
+    outline: none;
+}
+
+.center {
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #fff;
+    box-sizing: border-box;
+}
+
+.border {
+    border: 2px solid #333;
+}
+
+.tiao {
+    box-sizing: border-box;
+    padding: 7px;
+    overflow: hidden;
+}
+
+.tiao span {
+    height: 80px;
+    float: left;
+    margin: 10px;
+}
+
+.tiao span a {
+    outline: none;
+}
+
+.ui-draggable,
+.ui-droppable {
+    background-position: top;
+}
+
+.top {
+    z-index: 999;
+}
+
+.hidden {
+    display: none;
+}
+
+.camera {
+    text-align: center;
+}
+
+.camera img {
+    display: inline-block;
+    width: 8%;
+    vertical-align: top;
+    margin-top: 20px;
+}

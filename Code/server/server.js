@@ -13,17 +13,19 @@ const storage = multer.diskStorage({
 })
 const upload = multer({storage: storage});
 
+app.use(express.static('public'));
+
 app.post('/upload', upload.single('image'), function(req,res){
     console.log('POST Request Received');
     res.sendStatus(200); // OK
 });
 
-const destination_ip = 'http://192.168.0.109';
+const destination_ip = 'http://192.168.43.13'; // Master pi IP address
 const destination_port = ':3000';
 if (true){
     request.post({url: destination_ip + destination_port + '/trigger'}, function (err, res, body) {
         if (err) {return console.error('Trigger failed:', err);}
-        console.log('Camera triggered, server: ', body);
+        console.log('Server: Camera triggered, server: ', body);
     });
 }
 
