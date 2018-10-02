@@ -47,9 +47,9 @@ $(function() {
             slide: function(event, ui) {
                 _this.parent().next().find("span").text(ui.value);
                 sliderIndex = _this.next().val();
-                $(".videonSilder").find("video").eq(sliderIndex).css("opacity", ui.value / 100);
+                $(".videonSilder").find("img").eq(sliderIndex).css("opacity", ui.value / 100);
                 getvideo(sliderIndex, _this.parent().parent());
-                if ((sliderIndex + 1) <= $(".videonSilder video").length) {
+                if ((sliderIndex + 1) <= $(".videonSilder img").length) {
                     getSilder(sliderIndex);
                 }
             }
@@ -62,8 +62,8 @@ $(function() {
     });
 
     function getSilder(sliderIndex) {
-        if ((sliderIndex + 1) <= $(".videonSilder video").length) {
-            var video = document.getElementsByTagName('video')[sliderIndex];
+        if ((sliderIndex + 1) <= $(".videonSilder img").length) {
+            var video = document.getElementsByTagName('img')[sliderIndex];
             video.addEventListener('ended', function() {
                 // $(".swiper-slide").eq(sliderIndex).nextAll().each(function() {
                 //     var text = $(this).find(".center .show span").text();
@@ -85,7 +85,7 @@ $(function() {
     }
 
     function getvideo(sliderIndex, addBorder) {
-        var vedio = $(".videonSilder video");
+        var vedio = $(".videonSilder img");
         vedio.removeClass("top").removeAttr("controls autoplay");
         vedio.eq(sliderIndex).addClass("top").attr({
             "controls": "controls",
