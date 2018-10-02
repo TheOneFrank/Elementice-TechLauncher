@@ -20,14 +20,18 @@ app.post('/upload', upload.single('image'), function(req,res){
     res.sendStatus(200); // OK
 });
 
-const destination_ip = 'http://192.168.43.13'; // Master pi IP address
-const destination_port = ':3000';
-if (true){
+app.get('/trigger', function(req,res){
+    console.log('Trigger request recieved');
+    res.sendStatus(200); // OK
+
     request.post({url: destination_ip + destination_port + '/trigger'}, function (err, res, body) {
         if (err) {return console.error('Trigger failed:', err);}
         console.log('Server: Camera triggered, server: ', body);
     });
-}
+});
+
+const destination_ip = 'http://192.168.43.13'; // Master pi IP address
+const destination_port = ':3000';
 
 app.listen(3000,function(){
   console.log("Started on PORT 3000");
