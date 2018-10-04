@@ -38,8 +38,6 @@ Target application for the BulletKam product will start with an indoor, controll
 
 >**Sprint 3** (Week 7 - Week 9)<br />
 
->**Sprint 4** (Week 10 - Week 12)<br />
-
 <h4>Milestone 2</h4>
 
 See more details on <a href = "#Title3"><b> Section 3</b></a><br/>
@@ -157,13 +155,24 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </table>
 
 **Front End Goal:** 
-> <br />
+>Simplified prototype: connect UI take photo button to Server<br />
+>UI software (Including camera display, setting opacity and take photo button)<br />
+>Connect finalized server software to UI<br />
 
 **Back End Goal:** 
-> <br />
->
+>Server Software (translating between ui and pis, broadcasting commands etc)<br />
+>Connect Pis together into working prototype<br />
+>Connect server to master pi, send signal to cameras from master pi<br />
+>Send video stream from pis to server to display on ui<br />
+
+**Technical Support &  Miscellaneous**
+>3d Print mounts for pis and Cameras to go with the frame<br />
+>Build and test the actual bullet time rig with as many cameras attached as possible. This will include flashing 30pis<br />
+>Confirm and test video post-processing with different image qualities etc<br />
+>Set up cameras & adjust basic rig<br />
 
 **Vision:**
+> <br />
 > <br />
 
 <br/>
