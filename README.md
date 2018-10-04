@@ -18,7 +18,6 @@
 A "bullet time" camera rig allows the video to slow or stop time and change perspectives. 
 We have developed an early POC for a "bullet time" video rig and are looking for a TechLauncher team to progress the POC to a more market ready product and test it's viability for real world use.
 
-
 **Client's Vision**
 Array of cameras, wirelessly send photos to local computer for post-processing and deliver the video to web within only a few minutes of capture. 
 
@@ -87,6 +86,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 <h2><a name = "Title3"> 3. Project Progress </a></h2>
 
 **3.1 Sprint Overview**
+
 <table borde r= 3>
 <tr align = "center">
 <th>sprint</th>
