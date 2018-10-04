@@ -172,8 +172,8 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 >Set up cameras & adjust basic rig<br />
 
 **Vision:**
-> <br />
-> <br />
+>System architecture diagram <br />
+
 
 <br/>
 
