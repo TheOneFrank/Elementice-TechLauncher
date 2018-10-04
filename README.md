@@ -196,7 +196,7 @@ The team have engaged well in the planning and reporting process outlined by us 
 
 We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:<br />
 >[Decision Making Progress](https://docs.google.com/document/d/1L87AwEB-gYxqa1583W2CnAAb9BrHwLZ23GlzzrfUgWw/edit?usp=sharing)<br />
-We record our communication with slack channel in Google Drive
+We record our communication with slack channel in Google Drive<br />
 >[Communication Progress](https://drive.google.com/drive/folders/1JSuK4zJfVFtmpOkskRUwczEXOrY1Ysr7)<br />
 
 
