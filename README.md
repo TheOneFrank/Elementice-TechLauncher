@@ -6,7 +6,7 @@
 <a href = "#Title1"><b> 1. Project Overview </b></a><br/>
 <a href = "#Title2"><b> 2. Project Governance </b></a><br/>
 <a href = "#Title3"><b> 3. Project Progress </b></a><br/>
-<a href = "#Title4"><b> 4. Communication & Decision Making </b></a><br/>
+<a href = "#Title4"><b> 4. Decision Making & Communication </b></a><br/>
 <a href = "#Title5"><b> 5. Technical Tools </b></a><br/>
 <a href = "#Title6"><b> 6. Support Documentation</b></a><br/>
 <a href = "#Title7"><b> 7. Group Photo</b></a><br/>
