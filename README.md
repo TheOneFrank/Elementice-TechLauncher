@@ -55,7 +55,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 | Ben Hegarty                      | Client                                   | ben@elementice.com              | 
 | James Presneill                  | Client, Industrial Design, Manufacturing | u5678952@anu.edu.au             |
 | De Zhang                         | Technical Leader, Back-End Programmer    | u6137069@anu.edu.au             |
-| Tianhao Li                       | Project Manager, Font-End Programmer     | u6071904@anu.edu.au             |
+| Tianhao Li                       | Project Manager, Front-End Programmer     | u6071904@anu.edu.au             |
 | Yu Gu                            | Program Designer, Front-End Programmer   | u6013813@anu.edu.au             |
 | Patrick Benter                   | FullStack Programmer, Hardware Technician| u5583834@anu.edu.au             |
 
@@ -178,19 +178,23 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 <br/>
 
 **Technical artefacts**
->[UML Diagram(the overview of the system)](https://drive.google.com/open?id=1qltKvxhbFka6-_lityCC8EJKUWDOyNFl)<br />
->[The considerations of the whole system](https://drive.google.com/open?id=1XlsMrIt40aUBbmfB3zlU8F3QpoKfAwNpAY3gvBS_syU)<br />
->The functions that the system needs to achieve the goal(In the Consideration file)<br />
->[The design of the interface](https://drive.google.com/open?id=1tYpYH7X7vLVCQle7PQ59XqNQSB6GeJx9)<br />
->Code of the interface<br />
->Research of the MongoDB<br />
->Create and test the server(The client can send the file to the server and the server will save it)<br />
->The ptototype of the interface
+
+>[UML Diagram(the overview of the system)](https://drive.google.com/drive/folders/1CJQUn8CsRM_mGiBNNatr0xaESkelWQOR)<br />
+>[Considerations of whole system](https://drive.google.com/open?id=1XlsMrIt40aUBbmfB3zlU8F3QpoKfAwNpAY3gvBS_syU)<br />
+>[Design of interface](https://drive.google.com/drive/folders/15N3H3V9iHwQN_tk5GdK-UuT9rYr06uRs)<br />
+>[System Architecture Diagram](https://drive.google.com/drive/folders/1UfD9aKl8WMUs-tOlpxtWd4vKOH98tV98)<br />
+>[]()<br />
+>[]()<br />
+>[]()<br />
+>[]()<br />
 
 **Value delivered to the client**
->[The design of the whole system(Include the overview and details of the system)](https://drive.google.com/open?id=1CJQUn8CsRM_mGiBNNatr0xaESkelWQOR)<br />
->[The features of our system](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)<br />
->[The method to implement the features](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)
+>[Features of our system](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)<br />
+>[Method to implement features](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)
+>[Research on MongoDB](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/prototype_mongoDB/Description.md)<br />
+>[]()<br />
+
+
 
 <br />
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
