@@ -219,18 +219,15 @@ We tried and used different tools in order to optimise our output
 
 <h2><a name = "Title6"> 6. Support Documentation </a></h2>
 
--  Documentation and Repository <br />
+-  General Documentation and Code Repository <br />
     [Google Drive](https://drive.google.com/drive/folders/1wbU5rIYncubDpdaH6Kf9xixHzuyPx0kw) <br />
     [GitHub](https://github.com/TheOneFrank/Elementice-TechLauncher) <br />
-    [Trello](https://trello.com/b/30blgFGs/elementice-bulletkam)
-- Client Meeting <br />
-    [Folder](https://drive.google.com/drive/folders/1HNsMFh45O15iycRb5xJU2Qr06R3VxvvO) <br />
-- Team Meeting Notes <br />
-    [Folder](https://drive.google.com/drive/folders/1MqJXDJXz_PkKry9LteJu_8273lE3ATll)    
-- Audit Presentation <br />
-    [Folder](https://drive.google.com/drive/folders/1fPzpvzTWxrPtCcT2dScYcNjS93QUoWxv)  
-- Weekly Acticity Log <br />
-     [Folder](https://drive.google.com/open?id=1RtZmbbrm3xqs5uMXlN6oc_es2W60AJLOnHqxxLr1-is)
+- Meeting Recording <br />
+    >[Client Meeting](https://drive.google.com/drive/folders/1HNsMFh45O15iycRb5xJU2Qr06R3VxvvO) <br />
+    >[Team Meeting](https://drive.google.com/drive/folders/1MqJXDJXz_PkKry9LteJu_8273lE3ATll)<br /> 
+- Team Progress Tracking<br />
+     [Weekly Activity Log](https://drive.google.com/open?id=1RtZmbbrm3xqs5uMXlN6oc_es2W60AJLOnHqxxLr1-is)
+     [Trello](https://trello.com/b/30blgFGs/elementice-bulletkam)
 
 
 <br />
