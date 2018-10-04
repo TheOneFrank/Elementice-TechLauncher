@@ -225,9 +225,8 @@ We tried and used different tools in order to optimise our output
 - Meeting Recording <br />
     [Client Meeting&Team Meeting](https://drive.google.com/drive/folders/1MqJXDJXz_PkKry9LteJu_8273lE3ATll) <br />
 - Team Progress Tracking<br />
-    [Weekly Activity Log](https://drive.google.com/open?id=1RtZmbbrm3xqs5uMXlN6oc_es2W60AJLOnHqxxLr1-is)
+    [Weekly Activity Log](https://drive.google.com/open?id=1RtZmbbrm3xqs5uMXlN6oc_es2W60AJLOnHqxxLr1-is)<br />
     [Trello](https://trello.com/b/30blgFGs/elementice-bulletkam)
-
 
 <br />
 <h2><a name = "Title7"> 7. Group Photo</a></h2>
