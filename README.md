@@ -183,18 +183,11 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 >[Considerations of whole system](https://drive.google.com/open?id=1XlsMrIt40aUBbmfB3zlU8F3QpoKfAwNpAY3gvBS_syU)<br />
 >[Design of interface](https://drive.google.com/drive/folders/15N3H3V9iHwQN_tk5GdK-UuT9rYr06uRs)<br />
 >[System Architecture Diagram](https://drive.google.com/drive/folders/1UfD9aKl8WMUs-tOlpxtWd4vKOH98tV98)<br />
->[]()<br />
->[]()<br />
->[]()<br />
->[]()<br />
 
 **Value delivered to the client**
 >[Features of our system](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)<br />
 >[Method to implement features](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)<br />
 >[Research on MongoDB](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/prototype_mongoDB/Description.md)<br />
->[]()<br />
-
-
 
 <br />
 <h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
@@ -218,9 +211,7 @@ We tried and used different tools in order to optimise our output
 <img src="https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/nanoPi.JPG" width="300" height="300" align="AbsBottom">
 <p align="left" vertical-align="center"><b> NanoPi </b></p>
 
-
 <br />
-
 
 <h2><a name = "Title6"> 6. Support Documentation </a></h2>
 
