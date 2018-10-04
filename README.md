@@ -224,7 +224,7 @@ We tried and used different tools in order to optimise our output
     [Google Drive](https://drive.google.com/drive/folders/1wbU5rIYncubDpdaH6Kf9xixHzuyPx0kw) <br />
     [GitHub](https://github.com/TheOneFrank/Elementice-TechLauncher) <br />
 - Meeting Recording <br />
-    [Client Meeting&Team Meeting](https://drive.google.com/drive/folders/1MqJXDJXz_PkKry9LteJu_8273lE3ATll) <br />
+    [Client Meeting & Team Meeting](https://drive.google.com/drive/folders/1MqJXDJXz_PkKry9LteJu_8273lE3ATll) <br />
 - Team Progress Tracking<br />
     [Weekly Activity Log](https://drive.google.com/open?id=1RtZmbbrm3xqs5uMXlN6oc_es2W60AJLOnHqxxLr1-is)<br />
     [Trello](https://trello.com/b/30blgFGs/elementice-bulletkam)
