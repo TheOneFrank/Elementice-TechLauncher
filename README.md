@@ -6,7 +6,7 @@
 <a href = "#Title1"><b> 1. Project Overview </b></a><br/>
 <a href = "#Title2"><b> 2. Project Governance </b></a><br/>
 <a href = "#Title3"><b> 3. Project Progress </b></a><br/>
-<a href = "#Title4"><b> 4. Decision Making </b></a><br/>
+<a href = "#Title4"><b> 4. Communication & Decision Making </b></a><br/>
 <a href = "#Title5"><b> 5. Technical Tools </b></a><br/>
 <a href = "#Title6"><b> 6. Support Documentation</b></a><br/>
 <a href = "#Title7"><b> 7. Group Photo</b></a><br/>
@@ -191,11 +191,14 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 >[Demo Demonstratiion](https://drive.google.com/drive/folders/1DyUUXcWKE_0zHXq8gFnF4y9ojN81OxCR)<br />
 
 <br />
-<h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
+<h2><a name = "Title4"> 4. Decision Making & Communication </a></h2>
 The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
 
-We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:[Decision Making Progress](https://docs.google.com/document/d/1L87AwEB-gYxqa1583W2CnAAb9BrHwLZ23GlzzrfUgWw/edit?usp=sharing)<br />
-<br />
+We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:<br />
+>[Decision Making Progress](https://docs.google.com/document/d/1L87AwEB-gYxqa1583W2CnAAb9BrHwLZ23GlzzrfUgWw/edit?usp=sharing)<br />
+We record our communication with slack channel in Google Drive
+>[Communication Progress](https://drive.google.com/drive/folders/1JSuK4zJfVFtmpOkskRUwczEXOrY1Ysr7)<br />
+
 
 <h2><a name = "Title5"> 5. Technical Tools </a></h2>
 
