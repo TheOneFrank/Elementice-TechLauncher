@@ -86,6 +86,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 <br />
 <h2><a name = "Title3"> 3. Project Progress </a></h2>
 
+**3.1 Sprint Overview**
 <table borde r= 3>
 <tr align = "center">
 <th>sprint</th>
@@ -177,14 +178,14 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 <br/>
 
-**Technical artefacts**
+**3.2 Technical artefacts**
 
 >[UML Diagram(the overview of the system)](https://drive.google.com/drive/folders/1CJQUn8CsRM_mGiBNNatr0xaESkelWQOR)<br />
 >[Considerations of whole system](https://drive.google.com/open?id=1XlsMrIt40aUBbmfB3zlU8F3QpoKfAwNpAY3gvBS_syU)<br />
 >[Design of interface](https://drive.google.com/drive/folders/15N3H3V9iHwQN_tk5GdK-UuT9rYr06uRs)<br />
 >[System Architecture Diagram](https://drive.google.com/drive/folders/1UfD9aKl8WMUs-tOlpxtWd4vKOH98tV98)<br />
 
-**Value delivered to the client**
+**3.3 Value delivered to the client**
 >[Features of our system](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)<br />
 >[Method to implement features](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)<br />
 >[Research on MongoDB](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/prototype_mongoDB/Description.md)<br />
