@@ -30,7 +30,7 @@ app.get('/trigger', function(req,res){
     });
 });
 
-const destination_ip = 'http://192.168.43.13'; // Master pi IP address
+const destination_ip = 'http://192.168.1.100'; // Master pi IP address
 const destination_port = ':3000';
 
 app.listen(3000,function(){

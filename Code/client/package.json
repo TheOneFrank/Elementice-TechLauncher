@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.16.3",
     "file-system": "^2.2.2",
-    "onoff": "^3.2.1"
+    "onoff": "^3.2.1",
+    "request": "^2.88.0"
   }
 }
