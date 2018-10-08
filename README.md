@@ -217,6 +217,8 @@ We tried and used different tools in order to optimise our output
 >[Documentation](https://drive.google.com/drive/folders/1wbU5rIYncubDpdaH6Kf9xixHzuyPx0kw) <br />
 >[Source Code](https://github.com/TheOneFrank/Elementice-TechLauncher) <br />
 
+<br />
+
 <h2><a name = "Title7"> 7. Support Documentation </a></h2>
 
 **Decision Making**
