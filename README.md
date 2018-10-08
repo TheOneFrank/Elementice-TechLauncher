@@ -12,7 +12,7 @@
 <a href = "#Title7"><b> 7. Group Photo</b></a><br/>
 <br />
 
-<h2><a name = "Title1"> 1.Project Overview </a></h2>
+<h2><a name = "Title1"> 1. Project Overview </a></h2>
 
 [Elementice](https://www.elementice.com/) is an Australian tech start-up that creates social marketing camera systems. We partner silently with businesses to build their brand while adding value for their customers who share watermarked photos on social media. Where Businesses have traditionally been left out of the loop, we have developed a variety of automated camera systems that make it easy for any business to not only get the recognition they deserve on social media, but also turn their customers into brand ambassadors.
 A "bullet time" camera rig allows the video to slow or stop time and change perspectives. 
@@ -176,9 +176,9 @@ We have individual meetings and chats with client whenever any of us have questi
 >System architecture diagram <br />
 
 <h3> 3.2 Technical artefacts </h3> 
-- [Design of interface](https://drive.google.com/drive/folders/15N3H3V9iHwQN_tk5GdK-UuT9rYr06uRs)<br />
-- [System Architecture Diagram](https://drive.google.com/open?id=1i5MXKjvFvFaubFq143b43meeGiJNxa6x)<br />
-- [3D Print](https://drive.google.com/drive/folders/1UK7q0XArJyrxNyHpdsvBPY-NLdWBhk9I)<br />
+    [Design of interface](https://drive.google.com/drive/folders/15N3H3V9iHwQN_tk5GdK-UuT9rYr06uRs)<br />
+    [System Architecture Diagram](https://drive.google.com/open?id=1i5MXKjvFvFaubFq143b43meeGiJNxa6x)<br />
+    [3D Print](https://drive.google.com/drive/folders/1UK7q0XArJyrxNyHpdsvBPY-NLdWBhk9I)<br />
 
 <h3> 3.3 Value delivered to the client </h3>
 [Features of our system](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)<br />
@@ -187,6 +187,7 @@ We have individual meetings and chats with client whenever any of us have questi
 [Demo Demonstratiion](https://drive.google.com/drive/folders/1DyUUXcWKE_0zHXq8gFnF4y9ojN81OxCR)<br />
 
 <br />
+
 <h2><a name = "Title4"> 4. Decision Making & Communication </a></h2>
 The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
 
