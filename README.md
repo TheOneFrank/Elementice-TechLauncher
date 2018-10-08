@@ -175,15 +175,6 @@ We have individual meetings and chats with client whenever any of us have questi
 **Vision:**
 >System architecture diagram <br />
 
-**3.2 Technical artefacts**
->[Design of interface](https://drive.google.com/drive/folders/15N3H3V9iHwQN_tk5GdK-UuT9rYr06uRs)<br />
->[System Architecture Diagram](https://drive.google.com/open?id=1i5MXKjvFvFaubFq143b43meeGiJNxa6x)<br />
->[3D Print](https://drive.google.com/drive/folders/1UK7q0XArJyrxNyHpdsvBPY-NLdWBhk9I)<br />
-
-**3.3 Value delivered to the client**
->[Research on MongoDB](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/prototype_mongoDB/Description.md)<br />
->[Demo Demonstratiion](https://drive.google.com/drive/folders/1DyUUXcWKE_0zHXq8gFnF4y9ojN81OxCR)<br />
-
 <br />
 
 <h2><a name = "Title4"> 4. Decision Making & Communication </a></h2>
@@ -212,7 +203,16 @@ We tried and used different tools in order to optimise our output
 
 <br />
 
-<h2><a name = "Title6"> 6. Support Documentation </a></h2>
+<h2><a name = "Title6"> 6. Supporting Documentation </a></h2>
+
+**Technical artefacts**
+>[Design of interface](https://drive.google.com/drive/folders/15N3H3V9iHwQN_tk5GdK-UuT9rYr06uRs)<br />
+>[System Architecture Diagram](https://drive.google.com/open?id=1i5MXKjvFvFaubFq143b43meeGiJNxa6x)<br />
+>[3D Print](https://drive.google.com/drive/folders/1UK7q0XArJyrxNyHpdsvBPY-NLdWBhk9I)<br />
+
+**Value delivered to the client**
+>[Research on MongoDB](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/prototype_mongoDB/Description.md)<br />
+>[Demo Demonstratiion](https://drive.google.com/drive/folders/1DyUUXcWKE_0zHXq8gFnF4y9ojN81OxCR)<br />
 
 -  General Documentation and Code Repository <br />
     [Google Drive](https://drive.google.com/drive/folders/1wbU5rIYncubDpdaH6Kf9xixHzuyPx0kw) <br />
