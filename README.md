@@ -8,8 +8,9 @@
 <a href = "#Title3"><b> 3. Project Progress </b></a><br/>
 <a href = "#Title4"><b> 4. Decision Making & Communication </b></a><br/>
 <a href = "#Title5"><b> 5. Technical Tools </b></a><br/>
-<a href = "#Title6"><b> 6. Support Documentation</b></a><br/>
-<a href = "#Title7"><b> 7. Group Photo</b></a><br/>
+<a href = "#Title6"><b> 6. Artefacts & Value deliverd to client </b></a><br/>
+<a href = "#Title7"><b> 7. Support Documentation </b></a><br/>
+<a href = "#Title8"><b> 8. Group Photo</b></a><br/>
 <br />
 
 <h2><a name = "Title1"> 1. Project Overview </a></h2>
@@ -203,8 +204,7 @@ We tried and used different tools in order to optimise our output
 
 <br />
 
-<h2><a name = "Title6"> 6. Supporting Documentation </a></h2>
-
+<h2><a name = "Title6"> 6. Artefacts & Value deliverd to client </a></h2>
 **Technical artefacts**
 >[Design of interface](https://drive.google.com/drive/folders/15N3H3V9iHwQN_tk5GdK-UuT9rYr06uRs)<br />
 >[System Architecture Diagram](https://drive.google.com/open?id=1i5MXKjvFvFaubFq143b43meeGiJNxa6x)<br />
@@ -213,10 +213,10 @@ We tried and used different tools in order to optimise our output
 **Value delivered to the client**
 >[Research on MongoDB](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/prototype_mongoDB/Description.md)<br />
 >[Demo Demonstratiion](https://drive.google.com/drive/folders/1DyUUXcWKE_0zHXq8gFnF4y9ojN81OxCR)<br />
+>[Documentation](https://drive.google.com/drive/folders/1wbU5rIYncubDpdaH6Kf9xixHzuyPx0kw) <br />
+>[Source Code](https://github.com/TheOneFrank/Elementice-TechLauncher) <br />
 
--  General Documentation and Code Repository <br />
-    [Google Drive](https://drive.google.com/drive/folders/1wbU5rIYncubDpdaH6Kf9xixHzuyPx0kw) <br />
-    [GitHub](https://github.com/TheOneFrank/Elementice-TechLauncher) <br />
+<h2><a name = "Title7"> 7. Support Documentation </a></h2>
 - Decision Making <br />
     [Folder](https://drive.google.com/drive/folders/1AY8CTRyR-4aq1NHwhriOxNeYFMey27k3) <br />
 - Team Communication <br />
@@ -233,7 +233,7 @@ We tried and used different tools in order to optimise our output
     [Folder](https://drive.google.com/drive/folders/12mrhpHUXCo8E6dOVKcgRfeeLr5AAOanE)
 
 <br />
-<h2><a name = "Title7"> 7. Group Photo</a></h2>
+<h2><a name = "Title8"> 8. Group Photo</a></h2>
 
 ![](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/IMG_1462.JPG)
 <p align="center" vertical-align="middle"><b> Team Members </b></p>
