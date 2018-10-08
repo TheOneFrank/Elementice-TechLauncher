@@ -63,7 +63,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 - Our communication channel is [Slack](https://techlauncherbulletkam.slack.com/messages/CC005DM7F/).
 
 <h3> 2.4 Development Approach </h3>
-- The development approach we adapt is agile methodology. We hold weekly meetings consists of Scrum. The time of our weekly Scrum meeting is from 4pm - 6pm every Friday.
+The development approach we adapt is agile methodology. We hold weekly meetings consists of Scrum. The time of our weekly Scrum meeting is from 4pm - 6pm every Friday.
 
 - Each team member answers 3 following questions: 
  1. "What they have done?"
