@@ -30,15 +30,17 @@ Target application for the BulletKam product will start with an indoor, controll
 
 <h3> 2.1 Project Timeline </h3>
 
->**Sprint 1** (Week 2 - Week 3)<br />
+**Sprint 1** (Week 2 - Week 3)<br />
 
->**Sprint 2** (Week 4 - Week 6)<br />
+>Milestone 1
 
-<h4>Milestone 1</h4>
+**Sprint 2** (Week 4 - Week 6)<br />
 
->**Sprint 3** (Week 7 - Week 9)<br />
+>Milestone 2
 
-<h4>Milestone 2</h4>
+**Sprint 3** (Week 7 - Week 9)<br />
+
+<Milestone 3
 
 See more details on <a href = "#Title3"><b> Section 3</b></a><br/>
 
