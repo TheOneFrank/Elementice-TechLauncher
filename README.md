@@ -197,6 +197,7 @@ We make decisions during the client meeting and scrum meeting and the decision m
 We record our communication with slack channel in Google Drive:<br />
 [Communication Progress](https://drive.google.com/drive/folders/1JSuK4zJfVFtmpOkskRUwczEXOrY1Ysr7)<br />
 
+<br />
 
 <h2><a name = "Title5"> 5. Technical Tools </a></h2>
 
