@@ -75,9 +75,9 @@ The development approach we adapt is agile methodology. We hold weekly meetings 
 - Each sprint will last 2 weeks, where each member will work on the allocated task individually during the week and during team weekly meeting we come together and work on unresolved or difficulty tasks as a team.
 
 <h3> 2.5 Engagement With Stakeholders </h3>
-- We have individual meetings and chats with client whenever any of us have questions (phone, video chat, meet in office)
+We have individual meetings and chats with client whenever any of us have questions (phone, video chat, meet in office). To be noted, one of our client is our team member.
 
-- We have regular client meeting from 4pm - 6pm every Friday.
+- We have weekly team meeting from 4pm - 6pm every Friday. 
 
 - During our client meeting, we ask client questions and update client the progress of our project.
 
