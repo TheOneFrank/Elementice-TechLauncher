@@ -179,9 +179,6 @@ We have individual meetings and chats with client whenever any of us have questi
 <br/>
 
 **3.2 Technical artefacts**
-
->[UML Diagram(the overview of the system)](https://drive.google.com/drive/folders/1CJQUn8CsRM_mGiBNNatr0xaESkelWQOR)<br />
->[Considerations of whole system](https://drive.google.com/open?id=1XlsMrIt40aUBbmfB3zlU8F3QpoKfAwNpAY3gvBS_syU)<br />
 >[Design of interface](https://drive.google.com/drive/folders/15N3H3V9iHwQN_tk5GdK-UuT9rYr06uRs)<br />
 >[System Architecture Diagram](https://drive.google.com/open?id=1i5MXKjvFvFaubFq143b43meeGiJNxa6x)<br />
 
