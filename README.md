@@ -43,7 +43,7 @@ See more details on <a href = "#Title3"><b> Section 3</b></a><br/>
 
 <h3> 2.2 Traceability of Actions </h3>
 
-The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be used to track our sprint process. 
+[Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be used to track our sprint process. 
 
 
 <h3> 2.3 Team </h3>
@@ -175,12 +175,12 @@ We have individual meetings and chats with client whenever any of us have questi
 **Vision:**
 >System architecture diagram <br />
 
-** 3.2 Technical artefacts **
+**3.2 Technical artefacts**
 >[Design of interface](https://drive.google.com/drive/folders/15N3H3V9iHwQN_tk5GdK-UuT9rYr06uRs)<br />
 >[System Architecture Diagram](https://drive.google.com/open?id=1i5MXKjvFvFaubFq143b43meeGiJNxa6x)<br />
 >[3D Print](https://drive.google.com/drive/folders/1UK7q0XArJyrxNyHpdsvBPY-NLdWBhk9I)<br />
 
-** 3.3 Value delivered to the client **
+**3.3 Value delivered to the client**
 >[Features of our system](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)<br />
 >[Method to implement features](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)<br />
 >[Research on MongoDB](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/prototype_mongoDB/Description.md)<br />
