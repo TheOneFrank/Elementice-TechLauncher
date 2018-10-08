@@ -6,7 +6,7 @@
 <a href = "#Title1"><b> 1. Project Overview </b></a><br/>
 <a href = "#Title2"><b> 2. Project Governance </b></a><br/>
 <a href = "#Title3"><b> 3. Project Progress </b></a><br/>
-<a href = "#Title4"><b> 4. Decision Making </b></a><br/>
+<a href = "#Title4"><b> 4. Decision Making & Communication </b></a><br/>
 <a href = "#Title5"><b> 5. Technical Tools </b></a><br/>
 <a href = "#Title6"><b> 6. Support Documentation</b></a><br/>
 <a href = "#Title7"><b> 7. Group Photo</b></a><br/>
@@ -17,7 +17,6 @@
 [Elementice](https://www.elementice.com/) is an Australian tech start-up that creates social marketing camera systems. We partner silently with businesses to build their brand while adding value for their customers who share watermarked photos on social media. Where Businesses have traditionally been left out of the loop, we have developed a variety of automated camera systems that make it easy for any business to not only get the recognition they deserve on social media, but also turn their customers into brand ambassadors.
 A "bullet time" camera rig allows the video to slow or stop time and change perspectives. 
 We have developed an early POC for a "bullet time" video rig and are looking for a TechLauncher team to progress the POC to a more market ready product and test it's viability for real world use.
-
 
 **Client's Vision**
 Array of cameras, wirelessly send photos to local computer for post-processing and deliver the video to web within only a few minutes of capture. 
@@ -38,8 +37,6 @@ Target application for the BulletKam product will start with an indoor, controll
 
 >**Sprint 3** (Week 7 - Week 9)<br />
 
->**Sprint 4** (Week 10 - Week 12)<br />
-
 <h4>Milestone 2</h4>
 
 See more details on <a href = "#Title3"><b> Section 3</b></a><br/>
@@ -57,7 +54,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 | Ben Hegarty                      | Client                                   | ben@elementice.com              | 
 | James Presneill                  | Client, Industrial Design, Manufacturing | u5678952@anu.edu.au             |
 | De Zhang                         | Technical Leader, Back-End Programmer    | u6137069@anu.edu.au             |
-| Tianhao Li                       | Project Manager, Font-End Programmer     | u6071904@anu.edu.au             |
+| Tianhao Li                       | Project Manager, Front-End Programmer     | u6071904@anu.edu.au             |
 | Yu Gu                            | Program Designer, Front-End Programmer   | u6013813@anu.edu.au             |
 | Patrick Benter                   | FullStack Programmer, Hardware Technician| u5583834@anu.edu.au             |
 
@@ -87,6 +84,8 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 
 <br />
 <h2><a name = "Title3"> 3. Project Progress </a></h2>
+
+**3.1 Sprint Overview**
 
 <table borde r= 3>
 <tr align = "center">
@@ -133,7 +132,7 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 >Web interface Design & Actions<br />
 
 **Back End Goal:** 
->[Architecture for file handling](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/prototype_mongoDB/Description.md) <br />
+>Architecture for file handling
 >PIs connetcting to AP + Send File
 
 **Vision:**
@@ -157,38 +156,50 @@ The [Trello Page](https://trello.com/b/30blgFGs/elementice-bulletkam) would be u
 </table>
 
 **Front End Goal:** 
-> <br />
+>Simplified prototype: connect UI take photo button to Server<br />
+>UI software (Including camera display, setting opacity and take photo button)<br />
+>Connect finalized server software to UI<br />
 
 **Back End Goal:** 
-> <br />
->
+>Server Software (translating between ui and pis, broadcasting commands etc)<br />
+>Connect Pis together into working prototype<br />
+>Connect server to master pi, send signal to cameras from master pi<br />
+>Send video stream from pis to server to display on ui<br />
+
+**Technical Support &  Miscellaneous**
+>3d Print mounts for pis and Cameras to go with the frame<br />
+>Build and test the actual bullet time rig with as many cameras attached as possible. This will include flashing 30pis<br />
+>Confirm and test video post-processing with different image qualities etc<br />
+>Set up cameras & adjust basic rig<br />
 
 **Vision:**
-> <br />
+>System architecture diagram <br />
+
 
 <br/>
 
-**Technical artefacts**
->[UML Diagram(the overview of the system)](https://drive.google.com/open?id=1qltKvxhbFka6-_lityCC8EJKUWDOyNFl)<br />
->[The considerations of the whole system](https://drive.google.com/open?id=1XlsMrIt40aUBbmfB3zlU8F3QpoKfAwNpAY3gvBS_syU)<br />
->The functions that the system needs to achieve the goal(In the Consideration file)<br />
->[The design of the interface](https://drive.google.com/open?id=1tYpYH7X7vLVCQle7PQ59XqNQSB6GeJx9)<br />
->Code of the interface<br />
->Research of the MongoDB<br />
->Create and test the server(The client can send the file to the server and the server will save it)<br />
->The ptototype of the interface
+**3.2 Technical artefacts**
 
-**Value delivered to the client**
->[The design of the whole system(Include the overview and details of the system)](https://drive.google.com/open?id=1CJQUn8CsRM_mGiBNNatr0xaESkelWQOR)<br />
->[The features of our system](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)<br />
->[The method to implement the features](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)
+>[UML Diagram(the overview of the system)](https://drive.google.com/drive/folders/1CJQUn8CsRM_mGiBNNatr0xaESkelWQOR)<br />
+>[Considerations of whole system](https://drive.google.com/open?id=1XlsMrIt40aUBbmfB3zlU8F3QpoKfAwNpAY3gvBS_syU)<br />
+>[Design of interface](https://drive.google.com/drive/folders/15N3H3V9iHwQN_tk5GdK-UuT9rYr06uRs)<br />
+>[System Architecture Diagram](https://drive.google.com/drive/folders/1UfD9aKl8WMUs-tOlpxtWd4vKOH98tV98)<br />
+
+**3.3 Value delivered to the client**
+>[Features of our system](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)<br />
+>[Method to implement features](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)<br />
+>[Research on MongoDB](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/prototype_mongoDB/Description.md)<br />
+>[Demo Demonstratiion](https://drive.google.com/drive/folders/1DyUUXcWKE_0zHXq8gFnF4y9ojN81OxCR)<br />
 
 <br />
-<h2><a name = "Title4"> 4. Effective and Appropriate Decision Making </a></h2>
+<h2><a name = "Title4"> 4. Decision Making & Communication </a></h2>
 The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
 
-We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:[Decision Making Progress](https://docs.google.com/document/d/1L87AwEB-gYxqa1583W2CnAAb9BrHwLZ23GlzzrfUgWw/edit?usp=sharing)<br />
-<br />
+We make decisions during the client meeting and scrum meeting and the decision making documents are in Google Drive:<br />
+[Decision Making Progress](https://drive.google.com/drive/folders/1AY8CTRyR-4aq1NHwhriOxNeYFMey27k3)<br />
+We record our communication with slack channel in Google Drive:<br />
+[Communication Progress](https://drive.google.com/drive/folders/1JSuK4zJfVFtmpOkskRUwczEXOrY1Ysr7)<br />
+
 
 <h2><a name = "Title5"> 5. Technical Tools </a></h2>
 
@@ -205,25 +216,18 @@ We tried and used different tools in order to optimise our output
 <img src="https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/Images/nanoPi.JPG" width="300" height="300" align="AbsBottom">
 <p align="left" vertical-align="center"><b> NanoPi </b></p>
 
-
 <br />
-
 
 <h2><a name = "Title6"> 6. Support Documentation </a></h2>
 
--  Documentation and Repository <br />
+-  General Documentation and Code Repository <br />
     [Google Drive](https://drive.google.com/drive/folders/1wbU5rIYncubDpdaH6Kf9xixHzuyPx0kw) <br />
     [GitHub](https://github.com/TheOneFrank/Elementice-TechLauncher) <br />
+- Meeting Recording <br />
+    [Client Meeting & Team Meeting](https://drive.google.com/drive/folders/1MqJXDJXz_PkKry9LteJu_8273lE3ATll) <br />
+- Team Progress Tracking<br />
+    [Weekly Activity Log](https://drive.google.com/open?id=1RtZmbbrm3xqs5uMXlN6oc_es2W60AJLOnHqxxLr1-is)<br />
     [Trello](https://trello.com/b/30blgFGs/elementice-bulletkam)
-- Client Meeting <br />
-    [Folder](https://drive.google.com/drive/folders/1HNsMFh45O15iycRb5xJU2Qr06R3VxvvO) <br />
-- Team Meeting Notes <br />
-    [Folder](https://drive.google.com/drive/folders/1MqJXDJXz_PkKry9LteJu_8273lE3ATll)    
-- Audit Presentation <br />
-    [Folder](https://drive.google.com/drive/folders/1fPzpvzTWxrPtCcT2dScYcNjS93QUoWxv)  
-- Weekly Acticity Log <br />
-     [Folder](https://drive.google.com/open?id=1RtZmbbrm3xqs5uMXlN6oc_es2W60AJLOnHqxxLr1-is)
-
 
 <br />
 <h2><a name = "Title7"> 7. Group Photo</a></h2>

@@ -45,6 +45,7 @@ $(function() {
             slide: function(event, ui) {
                 _this.parent().next().find("span").text(ui.value);
                 sliderIndex = _this.next().val();
+<<<<<<< HEAD
                 $(".videonSilder").children().eq(sliderIndex).css("opacity", ui.value / 100);
                 if ($(".videonSilder").children().eq(sliderIndex)[0].tagName == 'IMG') {
                     getImg(sliderIndex, _this.parent().parent());
@@ -53,6 +54,12 @@ $(function() {
                     if ((sliderIndex + 1) <= $(".videonSilder video").length) {
                         getSilder(sliderIndex);
                     }
+=======
+                $(".videonSilder").find("img").eq(sliderIndex).css("opacity", ui.value / 100);
+                getvideo(sliderIndex, _this.parent().parent());
+                if ((sliderIndex + 1) <= $(".videonSilder img").length) {
+                    getSilder(sliderIndex);
+>>>>>>> 3a10e383b7419828e26e60d5c1aabc6c4155d569
                 }
             }
         });
@@ -73,18 +80,25 @@ $(function() {
     });
 
     function getSilder(sliderIndex) {
-        if ((sliderIndex + 1) <= $(".videonSilder video").length) {
-            var video = document.getElementsByTagName('video')[sliderIndex];
+        if ((sliderIndex + 1) <= $(".videonSilder img").length) {
+            var video = document.getElementsByTagName('img')[sliderIndex];
             video.addEventListener('ended', function() {
                 $(this).trigger('play');
             })
         }
     }
 
+<<<<<<< HEAD
     function getVideo(sliderIndex, addBorder) {
         var item = $(".videonSilder").children();
         item.removeClass("top").removeAttr("controls autoplay");
         item.eq(sliderIndex).addClass("top").attr({
+=======
+    function getvideo(sliderIndex, addBorder) {
+        var vedio = $(".videonSilder img");
+        vedio.removeClass("top").removeAttr("controls autoplay");
+        vedio.eq(sliderIndex).addClass("top").attr({
+>>>>>>> 3a10e383b7419828e26e60d5c1aabc6c4155d569
             "controls": "controls",
             "autoplay": "autoplay"
         }).trigger('play');
