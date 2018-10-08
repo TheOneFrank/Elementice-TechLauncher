@@ -218,20 +218,20 @@ We tried and used different tools in order to optimise our output
 >[Source Code](https://github.com/TheOneFrank/Elementice-TechLauncher) <br />
 
 <h2><a name = "Title7"> 7. Support Documentation </a></h2>
-- Decision Making <br />
-    [Folder](https://drive.google.com/drive/folders/1AY8CTRyR-4aq1NHwhriOxNeYFMey27k3) <br />
-- Team Communication <br />
-    [Client & Team Meeting](https://drive.google.com/drive/folders/1MqJXDJXz_PkKry9LteJu_8273lE3ATll) <br />
-    [Slack Communication](https://drive.google.com/drive/folders/1JSuK4zJfVFtmpOkskRUwczEXOrY1Ysr7) <br />
-- Team Progress Tracking<br />
-    [Task Log](https://docs.google.com/spreadsheets/d/1sOMQUOGyjo9dVYhXPL75yydH8g6ddJPLAhPVqGsro9w/edit)<br />
-    [Weekly Activity Log](https://drive.google.com/open?id=1RtZmbbrm3xqs5uMXlN6oc_es2W60AJLOnHqxxLr1-is)<br />
-    [Trello](https://trello.com/b/30blgFGs/elementice-bulletkam)
-- Project Relative Media<br />
-    [Images & Diagrams](https://drive.google.com/drive/folders/1UfD9aKl8WMUs-tOlpxtWd4vKOH98tV98)<br />
-    [Output Video Demonstration](https://drive.google.com/drive/folders/1DyUUXcWKE_0zHXq8gFnF4y9ojN81OxCR)<br />
-- Legal Document<br />
-    [Folder](https://drive.google.com/drive/folders/12mrhpHUXCo8E6dOVKcgRfeeLr5AAOanE)
+**Decision Making**
+>[Folder](https://drive.google.com/drive/folders/1AY8CTRyR-4aq1NHwhriOxNeYFMey27k3) <br />
+**Team Communication**
+>[Client & Team Meeting](https://drive.google.com/drive/folders/1MqJXDJXz_PkKry9LteJu_8273lE3ATll) <br />
+>[Slack Communication](https://drive.google.com/drive/folders/1JSuK4zJfVFtmpOkskRUwczEXOrY1Ysr7) <br />
+**Team Progress Tracking**
+>[Task Log](https://docs.google.com/spreadsheets/d/1sOMQUOGyjo9dVYhXPL75yydH8g6ddJPLAhPVqGsro9w/edit)<br />
+>[Weekly Activity Log](https://drive.google.com/open?id=1RtZmbbrm3xqs5uMXlN6oc_es2W60AJLOnHqxxLr1-is)<br />
+>[Trello](https://trello.com/b/30blgFGs/elementice-bulletkam)
+**Project Relative Media**
+>[Images & Diagrams](https://drive.google.com/drive/folders/1UfD9aKl8WMUs-tOlpxtWd4vKOH98tV98)<br />
+>[Output Video Demonstration](https://drive.google.com/drive/folders/1DyUUXcWKE_0zHXq8gFnF4y9ojN81OxCR)<br />
+**Legal Document**
+>[Folder](https://drive.google.com/drive/folders/12mrhpHUXCo8E6dOVKcgRfeeLr5AAOanE)
 
 <br />
 <h2><a name = "Title8"> 8. Group Photo</a></h2>
