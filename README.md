@@ -176,13 +176,13 @@ We have individual meetings and chats with client whenever any of us have questi
 >System architecture diagram <br />
 
 <h3> 3.2 Technical artefacts </h3>
->[Design of interface](https://drive.google.com/drive/folders/15N3H3V9iHwQN_tk5GdK-UuT9rYr06uRs)<br />
->[System Architecture Diagram](https://drive.google.com/open?id=1i5MXKjvFvFaubFq143b43meeGiJNxa6x)<br />
+- [Design of interface](https://drive.google.com/drive/folders/15N3H3V9iHwQN_tk5GdK-UuT9rYr06uRs)<br />
+- [System Architecture Diagram](https://drive.google.com/open?id=1i5MXKjvFvFaubFq143b43meeGiJNxa6x)<br />
 
 <h3> 3.3 Value delivered to the client </h3>
->[Features of our system](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)<br />
->[Method to implement features](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)<br />
->[Research on MongoDB](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/prototype_mongoDB/Description.md)<br />
+> [Features of our system](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)<br />
+> [Method to implement features](https://drive.google.com/open?id=10KgEcp_HXISSgjpZ-cC7k_fgtdn09Gjd-mml4ynknz4)<br />
+> [Research on MongoDB](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/prototype_mongoDB/Description.md)<br />
 >[Demo Demonstratiion](https://drive.google.com/drive/folders/1DyUUXcWKE_0zHXq8gFnF4y9ojN81OxCR)<br />
 
 <br />
