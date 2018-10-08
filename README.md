@@ -40,7 +40,7 @@ Target application for the BulletKam product will start with an indoor, controll
 
 **Sprint 3** (Week 7 - Week 9)<br />
 
-<Milestone 3
+>Milestone 3
 
 See more details on <a href = "#Title3"><b> Section 3</b></a><br/>
 
