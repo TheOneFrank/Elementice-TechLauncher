@@ -206,7 +206,6 @@ We record our communication with slack channel in Google Drive:<br />
 We tried and used different tools in order to optimise our output
 - **Node.js** for front end development
 - **HTML5** for front end development
-- **MongoDB** for database
 - **ARM based CPU** for hardware
 - **Trello** for tracing progress
 - **Slack** for team communication
