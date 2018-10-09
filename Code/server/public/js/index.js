@@ -125,7 +125,7 @@ function toogle(th) {
         }, 300, function() {
             ele.attr("data-state", "off");
         });
-        $(th).removeClass("off").addClass("off");
+        $(th).removeClass("on").addClass("off");
         $(".red").show();
     } else if (ele.attr("data-state") == "off") {
         ele.animate({
@@ -133,7 +133,7 @@ function toogle(th) {
         }, 300, function() {
             $(this).attr("data-state", "on");
         });
-        $(th).removeClass("on").addClass("on");
+        $(th).removeClass("off").addClass("on");
         $(".red").hide();
     }
 }
