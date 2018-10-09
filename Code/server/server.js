@@ -12,26 +12,36 @@ const storage = multer.diskStorage({
     }
 })
 const upload = multer({storage: storage});
+// TODO Create upload folder if it doesn't exist
 
 app.use(express.static('public'));
 
+let TOTAL_IMAGES = 0;
 app.post('/upload', upload.single('image'), function(req,res){
     console.log('POST Request Received');
     res.sendStatus(200); // OK
+    TOTAL_IMAGES++;
+    if (TOTAL_IMAGES == 15) { // Dodgy
+        stitchImages();
+    }
 });
 
+function stitchImages() {
+    // stitch and animate images
+}
+
+const destination_ip = 'http://192.168.0.113'; // Master pi IP address
+const destination_port = ':3000';
+
 app.get('/trigger', function(req,res){
-    console.log('Trigger request recieved');
+    console.log('Trigger request recieved by master pi');
     res.sendStatus(200); // OK
 
     request.post({url: destination_ip + destination_port + '/trigger'}, function (err, res, body) {
         if (err) {return console.error('Trigger failed:', err);}
-        console.log('Server: Camera triggered, server: ', body);
+        console.log('Server: Camera triggered: ', body);
     });
 });
-
-const destination_ip = 'http://192.168.1.100'; // Master pi IP address
-const destination_port = ':3000';
 
 app.listen(3000,function(){
   console.log("Started on PORT 3000");
