@@ -24,7 +24,7 @@ const IMAGE_NAME = 'image1';
 button.watch((err, value) => {
     if (err) {throw err;}
 
-    process.kill(-child.pid, 'SIGKILL'); // Stop streaming
+    process.kill(-child.pid, 'SIGTERM'); // Stop streaming
 
     console.log('Taking photo...');
     exec('fswebcam -r 1920x1080 --no-banner ' + IMAGE_NAME +'.jpg');
@@ -42,4 +42,6 @@ button.watch((err, value) => {
 })
 process.on('SIGINT', () => {
     button.unexport();
+    process.kill(-child.pid, 'SIGTERM'); // Stop streaming
+    process.exit(0);
   });

@@ -18,7 +18,7 @@ app.use(express.static('public'));
 
 let TOTAL_IMAGES = 0;
 app.post('/upload', upload.single('image'), function(req,res){
-    console.log('POST Request Received');
+    console.log('Image received');
     res.sendStatus(200); // OK
     TOTAL_IMAGES++;
     if (TOTAL_IMAGES == 15) { // Dodgy
@@ -28,11 +28,11 @@ app.post('/upload', upload.single('image'), function(req,res){
 
 function stitchImages() {
     // stitch and animate images
+    console.log("Stitching images...");
 }
 
-const destination_ip = 'http://192.168.0.113'; // Master pi IP address
+const destination_ip = 'http://192.168.0.116'; // Master pi IP address
 const destination_port = ':3000';
-
 app.get('/trigger', function(req,res){
     console.log('Trigger request recieved by master pi');
     res.sendStatus(200); // OK
