@@ -116,6 +116,12 @@ We have individual meetings and chats with client whenever any of us have questi
 
 </br>
 
+**Milestone 1**
+>Getting hardwares (NanoPI) and documentation (Google Drive) setting Up and ready for future use.
+>Getting every member understand the scope and context of this project.
+
+</br>
+
 <table borde r= 3>
 <tr align = "center">
 <th>sprint</th>
@@ -140,6 +146,12 @@ We have individual meetings and chats with client whenever any of us have questi
 
 **Vision:**
 >Design UML diagram for whole system view<br />
+
+</br>
+
+**Milestone 2**
+>Front End design and implement the prototype web interface which containing scroll slider for opacity and button to take shot.
+>Back End implement the nanoPI allowing a client to send a file to a waiting server, where the server then saves the image to a specified folder. MongoDB setting up for future use.
 
 </br>
 
@@ -179,6 +191,13 @@ We have individual meetings and chats with client whenever any of us have questi
 >System architecture diagram <br />
 
 <br />
+
+**Milestone 3**
+>Connecting front end to back end. 
+>User could receive streaming video from camera on webpage and setting up unique opacity for each specific camera. 
+>User could trigger photo shot on webpage, the signal would go through server then to the masterPI.
+
+</br>
 
 <h2><a name = "Title4"> 4. Decision Making & Communication </a></h2>
 The team have engaged well in the planning and reporting process outlined by us at the beginning of the project. Every team members were involved in decision making and project planning. The team appear to be communicating well between themselves and are committed to achieving a customer product feature by the end of the semester. We have created a Decision Making Trace File to record all the decisions made either with our client or during group meeting since the beginning of the semester. 
