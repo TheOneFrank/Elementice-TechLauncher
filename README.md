@@ -234,7 +234,7 @@ We tried and used different tools in order to optimise our output
 
 **Value delivered to the client**
 >[Research on MongoDB](https://github.com/TheOneFrank/Elementice-TechLauncher/blob/master/prototype_mongoDB/Description.md)<br />
->[Demo Demonstratiion](https://drive.google.com/drive/folders/1DyUUXcWKE_0zHXq8gFnF4y9ojN81OxCR)<br />
+>[Demo Demonstration](https://drive.google.com/drive/folders/1DyUUXcWKE_0zHXq8gFnF4y9ojN81OxCR)<br />
 >[Documentation](https://drive.google.com/drive/folders/1wbU5rIYncubDpdaH6Kf9xixHzuyPx0kw) <br />
 >[Source Code](https://github.com/TheOneFrank/Elementice-TechLauncher) <br />
 
